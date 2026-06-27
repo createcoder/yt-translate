@@ -1,8 +1,10 @@
 """Chunk transcript segments into groups of approximately N words."""
 
 
-def chunk_segments(segments: list[dict], chunk_size: int = 800) -> list[dict]:
+def chunk_segments(segments: list[dict], chunk_size: int = 150) -> list[dict]:
     """Group transcript segments into chunks of approximately chunk_size words.
+
+    Default chunk_size is 150 words (paragraph-sized) for dual-language output.
 
     Args:
         segments: List of dicts with keys "start", "duration", "text".

@@ -79,7 +79,8 @@ def translate_chunks(
         model: Model name to use.
 
     Returns:
-        List of dicts with keys "start", "text" (translated), and "success" (bool).
+        List of dicts with keys "start", "original" (English), "text" (translated),
+        and "success" (bool).
     """
     results: list[dict] = []
     total = len(chunks)
@@ -90,10 +91,18 @@ def translate_chunks(
         translated = translate_single_chunk(chunk["text"], base_url, model)
 
         if translated:
-            results.append({"start": chunk["start"], "text": translated, "success": True})
+            results.append({
+                "start": chunk["start"],
+                "original": chunk["text"],
+                "text": translated,
+                "success": True,
+            })
         else:
-            results.append(
-                {"start": chunk["start"], "text": "[TRANSLATION FAILED]", "success": False}
-            )
+            results.append({
+                "start": chunk["start"],
+                "original": chunk["text"],
+                "text": "[TRANSLATION FAILED]",
+                "success": False,
+            })
 
     return results

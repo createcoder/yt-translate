@@ -14,7 +14,7 @@ def test_full_pipeline(mock_translate, mock_fetch, tmp_path):
         {"start": 0.0, "duration": 5.0, "text": "Hello world this is a test video."},
     ])
     mock_translate.return_value = [
-        {"start": 0.0, "text": "你好世界，这是一个测试视频。", "success": True},
+        {"start": 0.0, "original": "Hello world this is a test video.", "text": "你好世界，这是一个测试视频。", "success": True},
     ]
 
     output_file = tmp_path / "output.md"

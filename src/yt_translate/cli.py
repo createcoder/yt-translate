@@ -13,7 +13,7 @@ from yt_translate.formatter import format_markdown, generate_filename
 @click.command()
 @click.argument("youtube_url")
 @click.option("--output", "-o", default=None, help="Output file path")
-@click.option("--chunk-size", "-c", default=800, help="Words per translation chunk")
+@click.option("--chunk-size", "-c", default=150, help="Words per translation chunk (paragraph size)")
 @click.option(
     "--base-url",
     default="http://100.126.211.106:8000/v1",

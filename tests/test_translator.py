@@ -97,9 +97,11 @@ class TestTranslateChunks:
 
         assert len(result) == 2
         assert result[0]["text"] == "第一段"
+        assert result[0]["original"] == "First paragraph"
         assert result[0]["success"] is True
         assert result[0]["start"] == 0.0
         assert result[1]["text"] == "第二段"
+        assert result[1]["original"] == "Second paragraph"
         assert result[1]["success"] is True
         assert result[1]["start"] == 60.0
 
@@ -114,7 +116,9 @@ class TestTranslateChunks:
         result = translate_chunks(chunks, base_url="http://x/v1", model="m")
 
         assert result[0]["success"] is True
+        assert result[0]["original"] == "First paragraph"
         assert result[1]["success"] is False
+        assert result[1]["original"] == "Second paragraph"
         assert result[1]["text"] == "[TRANSLATION FAILED]"
 
     @patch("yt_translate.translator.translate_single_chunk")

@@ -4,12 +4,12 @@ from yt_translate.formatter import format_markdown, generate_filename
 
 
 class TestFormatMarkdown:
-    """Tests for Markdown output formatting."""
+    """Tests for dual-language Markdown output formatting."""
 
     def test_basic_output(self):
         chunks = [
-            {"start": 0.0, "text": "第一段翻译内容。", "success": True},
-            {"start": 60.0, "text": "第二段翻译内容。", "success": True},
+            {"start": 0.0, "original": "First paragraph.", "text": "第一段翻译内容。", "success": True},
+            {"start": 60.0, "original": "Second paragraph.", "text": "第二段翻译内容。", "success": True},
         ]
         result = format_markdown("Test Video", "https://youtube.com/watch?v=abc", chunks)
 
@@ -22,23 +22,29 @@ class TestFormatMarkdown:
         assert "[00:00:00]" not in result
         assert "[00:01:00]" not in result
 
-    def test_article_style_continuous_prose(self):
+    def test_dual_language_format(self):
         chunks = [
-            {"start": 0.0, "text": "第一段。", "success": True},
-            {"start": 30.0, "text": "第二段。", "success": True},
+            {"start": 0.0, "original": "Hello world.", "text": "你好世界。", "success": True},
+            {"start": 30.0, "original": "Goodbye.", "text": "再见。", "success": True},
         ]
         result = format_markdown("Title", "http://url", chunks)
 
-        # Chunks separated by double newline (paragraph break)
-        assert "第一段。\n\n第二段。" in result
+        # Original in blockquote, translation below
+        assert "> Hello world." in result
+        assert "你好世界。" in result
+        assert "> Goodbye." in result
+        assert "再见。" in result
+        # Paragraphs separated by ---
+        assert "---" in result
 
     def test_failed_chunk_placeholder(self):
         chunks = [
-            {"start": 0.0, "text": "成功翻译。", "success": True},
-            {"start": 30.0, "text": "[TRANSLATION FAILED]", "success": False},
+            {"start": 0.0, "original": "Success text.", "text": "成功翻译。", "success": True},
+            {"start": 30.0, "original": "Failed text.", "text": "[TRANSLATION FAILED]", "success": False},
         ]
         result = format_markdown("Title", "http://url", chunks)
         assert "[TRANSLATION FAILED]" in result
+        assert "> Failed text." in result
 
 
 class TestGenerateFilename:

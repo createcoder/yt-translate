@@ -1,4 +1,4 @@
-"""Format translated chunks into article-style Markdown."""
+"""Format translated chunks into dual-language Markdown."""
 
 from datetime import date
 
@@ -6,12 +6,15 @@ from slugify import slugify
 
 
 def format_markdown(title: str, url: str, chunks: list[dict]) -> str:
-    """Format translated chunks as article-style Markdown.
+    """Format translated chunks as dual-language Markdown.
+
+    Each paragraph shows the original English (in blockquote) followed by
+    the Chinese translation, making it easy to learn from.
 
     Args:
         title: Original video title (English).
         url: Source YouTube URL.
-        chunks: List of dicts with keys "start", "text", "success".
+        chunks: List of dicts with keys "original", "text", "success".
 
     Returns:
         Complete Markdown string.
@@ -28,7 +31,15 @@ def format_markdown(title: str, url: str, chunks: list[dict]) -> str:
 
 """
 
-    body = "\n\n".join(chunk["text"] for chunk in chunks)
+    paragraphs = []
+    for chunk in chunks:
+        original = chunk.get("original", "")
+        translated = chunk["text"]
+        # Format original as blockquote
+        quoted_original = "\n".join(f"> {line}" for line in original.split("\n"))
+        paragraphs.append(f"{quoted_original}\n\n{translated}")
+
+    body = "\n\n---\n\n".join(paragraphs)
 
     return header + body + "\n"
 
