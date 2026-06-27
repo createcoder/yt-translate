@@ -1,6 +1,6 @@
 """Integration tests for the CLI."""
 
-from unittest.mock import patch, MagicMock
+from unittest.mock import patch
 from click.testing import CliRunner
 
 from yt_translate.cli import main

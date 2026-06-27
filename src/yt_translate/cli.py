@@ -1,6 +1,5 @@
 """CLI entry point for yt-translate."""
 
-import sys
 from pathlib import Path
 
 import click
