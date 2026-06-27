@@ -47,6 +47,7 @@ def translate_single_chunk(
                 temperature=TEMPERATURE,
                 max_tokens=MAX_TOKENS,
                 timeout=TIMEOUT,
+                extra_body={"chat_template_kwargs": {"enable_thinking": False}},
             )
             content = response.choices[0].message.content
             if content:
