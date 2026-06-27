@@ -88,7 +88,14 @@ def fetch_transcript(url: str) -> tuple[str, list[dict]]:
         try:
             # Fallback: try listing available transcripts
             transcript_list = api.list(video_id)
-            transcript = transcript_list.find_transcript(["en"])
+            try:
+                transcript = transcript_list.find_transcript(["en"])
+            except NoTranscriptFound:
+                # Last resort: pick the first available transcript
+                available = list(transcript_list)
+                if not available:
+                    raise
+                transcript = available[0]
             fetched = transcript.fetch()
             segments = fetched.to_raw_data()
         except Exception:
