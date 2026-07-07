@@ -8,6 +8,8 @@ from yt_translate.fetcher import fetch_transcript
 from yt_translate.chunker import chunk_segments
 from yt_translate.translator import translate_chunks
 from yt_translate.formatter import format_markdown, generate_filename
+from yt_translate.build_site import build_site
+from yt_translate.publish import publish
 
 
 @click.command()
@@ -25,7 +27,13 @@ from yt_translate.formatter import format_markdown, generate_filename
     default="Qwen/Qwen3.6-35B-A3B-FP8",
     help="Model name for the API",
 )
-def main(youtube_url: str, output: str | None, chunk_size: int, base_url: str, model: str) -> None:
+@click.option(
+    "--no-publish",
+    is_flag=True,
+    default=False,
+    help="Skip building the site and pushing to git",
+)
+def main(youtube_url: str, output: str | None, chunk_size: int, base_url: str, model: str, no_publish: bool) -> None:
     """Translate a YouTube video transcript to Chinese.
 
     YOUTUBE_URL: A YouTube video URL or video ID.
@@ -48,7 +56,10 @@ def main(youtube_url: str, output: str | None, chunk_size: int, base_url: str, m
     if output:
         output_path = Path(output)
     else:
-        output_path = Path(generate_filename(title))
+        repo_root = Path.cwd()
+        articles_dir = repo_root / "articles"
+        articles_dir.mkdir(exist_ok=True)
+        output_path = articles_dir / generate_filename(title)
 
     output_path.write_text(markdown, encoding="utf-8")
 
@@ -64,6 +75,22 @@ def main(youtube_url: str, output: str | None, chunk_size: int, base_url: str, m
             f"Saved to {output_path} ({success_count}/{total_count} chunks translated, {failed} failed)",
             err=True,
         )
+
+    # Step 5: Build site and publish
+    repo_root = Path.cwd()
+    articles_dir = repo_root / "articles"
+    site_dir = repo_root / "site"
+
+    click.echo("Building site...", err=True)
+    count = build_site(articles_dir, site_dir)
+    click.echo(f"Site built with {count} articles", err=True)
+
+    if not no_publish:
+        click.echo("Publishing...", err=True)
+        if publish(repo_root, title):
+            click.echo("Published successfully!", err=True)
+        else:
+            click.echo("Nothing to publish (no changes or push failed)", err=True)
 
 
 if __name__ == "__main__":
