@@ -43,11 +43,13 @@ def publish(repo_dir: Path, article_title: str) -> bool:
         return False
 
     # Commit
-    subprocess.run(
+    commit_result = subprocess.run(
         ["git", "commit", "-m", f"Add: {article_title}"],
         cwd=repo_dir,
         capture_output=True,
     )
+    if commit_result.returncode != 0:
+        return False
 
     # Push
     return _git_push(repo_dir)
