@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>YT Translate</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <button id="menu-toggle" aria-label="Toggle sidebar">☰</button>
+
+  <aside id="sidebar" aria-label="Navigation">
+    <div id="sidebar-header">
+      <h1>YT Translate</h1>
+    </div>
+    <nav id="article-nav"></nav>
+    <div class="controls">
+      <button id="resume" hidden>Resume reading</button>
+      <div class="font-controls">
+        <span>Aa</span>
+        <button id="font-down" aria-label="Smaller text">−</button>
+        <button id="font-up" aria-label="Larger text">+</button>
+      </div>
+    </div>
+  </aside>
+
+  <main id="reader">
+    <div id="loading">Loading…</div>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
