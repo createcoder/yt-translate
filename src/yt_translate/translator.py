@@ -1,5 +1,6 @@
 """Translate text chunks using an OpenAI-compatible API."""
 
+import re
 import time
 
 import click
@@ -15,8 +16,8 @@ SYSTEM_PROMPT = (
 MAX_RETRIES = 3
 RETRY_DELAYS = [1, 2, 4]  # seconds
 TEMPERATURE = 0.3
-MAX_TOKENS = 4096
-TIMEOUT = 30
+MAX_TOKENS = 16384
+TIMEOUT = 120
 
 
 def translate_single_chunk(
@@ -47,10 +48,11 @@ def translate_single_chunk(
                 temperature=TEMPERATURE,
                 max_tokens=MAX_TOKENS,
                 timeout=TIMEOUT,
-                extra_body={"chat_template_kwargs": {"enable_thinking": False}},
+                extra_body={"chat_template_kwargs": {"enable_thinking": True}},
             )
             content = response.choices[0].message.content
             if content:
+                content = re.sub(r"<think>.*?</think>", "", content, flags=re.DOTALL)
                 return content.strip()
             return None
         except Exception as e:
