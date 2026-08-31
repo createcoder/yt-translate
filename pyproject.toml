@@ -17,6 +17,7 @@ dependencies = [
 
 [project.scripts]
 yt-translate = "yt_translate.cli:main"
+yt-playlist-summarize = "yt_translate.playlist_cli:main"
 
 [tool.setuptools.packages.find]
 where = ["src"]

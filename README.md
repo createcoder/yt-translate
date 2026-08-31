@@ -62,6 +62,21 @@ yt-translate "https://youtube.com/watch?v=VIDEO_ID" --base-url http://localhost:
 yt-translate "https://youtube.com/watch?v=VIDEO_ID" -m "Qwen/Qwen2.5-72B"
 ```
 
+### Summarize a playlist for technical work
+
+```bash
+# Saves one Markdown file per video plus an index under playlist-summaries/PLAYLIST_ID/
+yt-playlist-summarize "https://www.youtube.com/playlist?list=PLAYLIST_ID"
+
+# Accepts a bare playlist ID; use --limit for a small trial run
+yt-playlist-summarize PLAYLIST_ID --limit 3
+```
+
+Each video file preserves the canonical video link, a detailed technical brief tailored
+to AI infrastructure, Databricks, Azure, and Azure AI Foundry work, and the complete
+timestamped transcript. It tries `youtube-transcript-api` first and falls back to
+`yt-dlp` English manual or auto-generated captions.
+
 ## Options
 
 | Option | Default | Description |

@@ -137,6 +137,30 @@ function renderArticle() {
   header.appendChild(meta);
   root.appendChild(header);
 
+  if (currentArticle.type === "playlist_brief") {
+    const summary = document.createElement("section");
+    summary.className = "technical-brief";
+    const heading = document.createElement("h3");
+    heading.textContent = "Technical brief";
+    summary.appendChild(heading);
+    appendMarkdownText(summary, currentArticle.summary);
+    root.appendChild(summary);
+
+    const transcript = document.createElement("details");
+    transcript.className = "transcript";
+    const transcriptHeading = document.createElement("summary");
+    transcriptHeading.textContent = "Full transcript";
+    transcript.appendChild(transcriptHeading);
+    const transcriptText = document.createElement("pre");
+    transcriptText.textContent = currentArticle.transcript;
+    transcript.appendChild(transcriptText);
+    root.appendChild(transcript);
+    reader.innerHTML = "";
+    reader.appendChild(root);
+    window.scrollTo({ top: 0, behavior: "instant" });
+    return;
+  }
+
   // Paragraphs
   for (const para of currentArticle.paragraphs) {
     const block = document.createElement("div");
@@ -165,6 +189,18 @@ function renderArticle() {
   reader.appendChild(root);
   applyBookmarkHighlight();
   window.scrollTo({ top: 0, behavior: "instant" });
+}
+
+function appendMarkdownText(parent, markdown) {
+  for (const line of (markdown || "").split("\n")) {
+    if (!line.trim()) continue;
+    const element = line.startsWith("### ") ? document.createElement("h5")
+      : line.startsWith("## ") ? document.createElement("h4")
+      : line.startsWith("# ") ? document.createElement("h3")
+      : line.startsWith("- ") ? document.createElement("li") : document.createElement("p");
+    element.textContent = line.replace(/^#{1,3}\s+|^-\s+/, "");
+    parent.appendChild(element);
+  }
 }
 
 // --- Navigation ---

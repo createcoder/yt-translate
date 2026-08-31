@@ -228,6 +228,15 @@ body {
   text-decoration: underline;
 }
 
+.technical-brief h3 { margin: 0 0 1.2rem; font-size: 1.25rem; }
+.technical-brief h4 { margin: 1.8rem 0 0.6rem; font-size: 1.05rem; color: var(--accent); }
+.technical-brief h5 { margin: 1.2rem 0 0.4rem; font-size: 0.95rem; }
+.technical-brief p { margin: 0.45rem 0; }
+.technical-brief li { margin: 0.3rem 0 0.3rem 1.1rem; }
+.transcript { margin-top: 2.5rem; border-top: 1px solid var(--rule); padding-top: 1rem; }
+.transcript summary { cursor: pointer; color: var(--accent); font-weight: 600; }
+.transcript pre { white-space: pre-wrap; overflow-wrap: anywhere; font: 0.78rem/1.55 ui-monospace, SFMono-Regular, Menlo, monospace; color: var(--fg); }
+
 .paragraph {
   position: relative;
   margin: 0 0 1.6rem;
