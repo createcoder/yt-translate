@@ -37,7 +37,9 @@ def build_site(articles_dir: Path, site_dir: Path) -> int:
     if playlist_dir.exists():
         for md_file in sorted(playlist_dir.glob("**/[0-9]*.md")):
             brief = _parse_playlist_brief(md_file.read_text(encoding="utf-8"))
-            if brief:
+            # Keep incomplete and failed runs on disk for retry, but do not
+            # surface them to readers until a usable summary is available.
+            if brief and brief["status"].startswith("Completed"):
                 brief["key"] = f"playlist-{md_file.parent.name}-{md_file.stem}"
                 articles.append(brief)
 
