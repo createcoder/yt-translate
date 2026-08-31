@@ -31,7 +31,7 @@ def test_fetch_playlist_uses_flat_ytdlp_data(mock_run):
 @patch("yt_translate.playlist_cli.fetch_transcript", return_value=("Video title", [{"start": 0, "text": "Technical transcript"}]))
 @patch("yt_translate.playlist_cli.fetch_playlist", return_value=[{"id": "dQw4w9WgXcQ", "title": "Video title", "url": "https://youtube.com/watch?v=dQw4w9WgXcQ"}])
 def test_playlist_cli_saves_summary_transcript_and_index(_playlist, _transcript, _summary, tmp_path: Path):
-    result = CliRunner().invoke(main, ["PLtest", "--output-dir", str(tmp_path)])
+    result = CliRunner().invoke(main, ["PLtest", "--output-dir", str(tmp_path), "--api-key", "test-key"])
     assert result.exit_code == 0
     video = next((tmp_path / "PLtest").glob("[0-9]*.md"))
     content = video.read_text()
@@ -40,3 +40,29 @@ def test_playlist_cli_saves_summary_transcript_and_index(_playlist, _transcript,
     assert "Technical transcript" in content
     assert "Video title" in (tmp_path / "PLtest" / "README.md").read_text()
     _transcript.assert_called_once_with("https://youtube.com/watch?v=dQw4w9WgXcQ", prefer_ytdlp=True)
+
+
+@patch("yt_translate.playlist_cli.fetch_transcript")
+@patch("yt_translate.playlist_cli.fetch_playlist", return_value=[{"id": "dQw4w9WgXcQ", "title": "Existing", "url": "https://youtube.com/watch?v=dQw4w9WgXcQ"}])
+def test_playlist_cli_skips_completed_video(_playlist, mock_transcript, tmp_path: Path):
+    destination = tmp_path / "PLtest"
+    destination.mkdir()
+    (destination / "001-existing.md").write_text(
+        "# Existing\n\n- **Video:** https://youtube.com/watch?v=dQw4w9WgXcQ\n- **Status:** Completed\n",
+        encoding="utf-8",
+    )
+    result = CliRunner().invoke(main, ["PLtest", "--output-dir", str(tmp_path)])
+    assert result.exit_code == 0
+    mock_transcript.assert_not_called()
+    assert "Skipped (already completed)" in (destination / "README.md").read_text()
+
+
+@patch("yt_translate.playlist_cli.summarize_transcript", side_effect=RuntimeError("model unavailable"))
+@patch("yt_translate.playlist_cli.fetch_transcript", return_value=("Video", [{"start": 0, "text": "Preserved transcript"}]))
+@patch("yt_translate.playlist_cli.fetch_playlist", return_value=[{"id": "dQw4w9WgXcQ", "title": "Video", "url": "https://youtube.com/watch?v=dQw4w9WgXcQ"}])
+def test_playlist_cli_preserves_transcript_when_summary_fails(_playlist, _transcript, _summary, tmp_path: Path):
+    result = CliRunner().invoke(main, ["PLtest", "--output-dir", str(tmp_path), "--api-key", "test-key"])
+    assert result.exit_code == 0
+    content = next((tmp_path / "PLtest").glob("[0-9]*.md")).read_text()
+    assert "Preserved transcript" in content
+    assert "model unavailable" in content

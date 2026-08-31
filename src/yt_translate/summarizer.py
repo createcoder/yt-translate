@@ -21,11 +21,11 @@ def transcript_text(segments: list[dict]) -> str:
     )
 
 
-def summarize_transcript(text: str, base_url: str, model: str) -> str:
+def summarize_transcript(text: str, base_url: str, model: str, api_key: str) -> str:
     """Produce a map/reduce summary so lengthy videos retain technical details."""
     # The CLI records a durable transcript before this call. Avoid SDK retries
     # that would otherwise keep an unavailable model request alive for minutes.
-    client = OpenAI(base_url=base_url, api_key="not-needed", max_retries=0)
+    client = OpenAI(base_url=base_url, api_key=api_key, max_retries=0)
     chunks = _split_text(text, 18000)
     partials = [_complete(client, f"Transcript section {i}/{len(chunks)}:\n{chunk}", model)
                 for i, chunk in enumerate(chunks, 1)]
@@ -45,8 +45,10 @@ def _complete(client: OpenAI, content: str, model: str) -> str:
     response = client.chat.completions.create(
         model=model,
         messages=[{"role": "system", "content": SUMMARY_PROMPT}, {"role": "user", "content": content}],
-        temperature=0.2,
-        max_tokens=4000,
+        reasoning_effort="low",
+        # GPT-5.6 reasoning tokens count against the completion budget. Leave
+        # enough room for both reasoning and the detailed technical brief.
+        max_tokens=8000,
         timeout=120,
     )
     answer = response.choices[0].message.content or ""
