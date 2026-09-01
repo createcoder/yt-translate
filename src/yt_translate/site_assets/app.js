@@ -195,6 +195,37 @@ function appendMarkdownText(parent, markdown) {
   const lines = (markdown || "").split("\n");
   for (let i = 0; i < lines.length; i += 1) {
     const line = lines[i];
+    const fence = line.match(/^```\s*([^\s`]*)\s*$/);
+    if (fence) {
+      const codeLines = [];
+      i += 1;
+      while (i < lines.length && !/^```\s*$/.test(lines[i])) {
+        codeLines.push(lines[i]);
+        i += 1;
+      }
+      // Treat an unmatched opening fence as ordinary text rather than hiding it.
+      if (i >= lines.length) {
+        const fallback = document.createElement("p");
+        fallback.textContent = line;
+        parent.appendChild(fallback);
+        break;
+      }
+      const block = document.createElement("div");
+      block.className = "code-block";
+      if (fence[1]) {
+        const language = document.createElement("div");
+        language.className = "code-language";
+        language.textContent = fence[1];
+        block.appendChild(language);
+      }
+      const pre = document.createElement("pre");
+      const code = document.createElement("code");
+      code.textContent = codeLines.join("\n");
+      pre.appendChild(code);
+      block.appendChild(pre);
+      parent.appendChild(block);
+      continue;
+    }
     if (!line.trim()) continue;
     if (isTableRow(line) && i + 1 < lines.length && isTableDivider(lines[i + 1])) {
       const wrapper = document.createElement("div");
