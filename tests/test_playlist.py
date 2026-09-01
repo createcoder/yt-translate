@@ -1,13 +1,14 @@
 """Tests for playlist enumeration, durable output, and VTT parsing."""
 
 import json
+import os
 from pathlib import Path
 from unittest.mock import MagicMock, patch
 
 from click.testing import CliRunner
 
 from yt_translate.fetcher import _parse_vtt, fetch_playlist
-from yt_translate.playlist_cli import main
+from yt_translate.playlist_cli import _load_dotenv, main
 
 
 def test_parse_vtt_removes_markup_and_keeps_timing():
@@ -66,3 +67,13 @@ def test_playlist_cli_preserves_transcript_when_summary_fails(_playlist, _transc
     content = next((tmp_path / "PLtest").glob("[0-9]*.md")).read_text()
     assert "Preserved transcript" in content
     assert "model unavailable" in content
+
+
+def test_load_dotenv_sets_missing_values_without_overriding_environment(tmp_path: Path, monkeypatch):
+    env_file = tmp_path / ".env"
+    env_file.write_text("LITELLM_BASE_URL=http://example.test/v1\nLITELLM_API_KEY=example-key\n", encoding="utf-8")
+    monkeypatch.delenv("LITELLM_BASE_URL", raising=False)
+    monkeypatch.setenv("LITELLM_API_KEY", "environment-key")
+    _load_dotenv(env_file)
+    assert os.environ["LITELLM_BASE_URL"] == "http://example.test/v1"
+    assert os.environ["LITELLM_API_KEY"] == "environment-key"

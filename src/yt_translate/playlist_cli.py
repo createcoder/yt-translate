@@ -1,6 +1,7 @@
 """CLI for producing durable technical briefs from a YouTube playlist."""
 
 from datetime import datetime, timezone
+import os
 from pathlib import Path
 import re
 
@@ -12,11 +13,30 @@ from yt_translate.summarizer import summarize_transcript, transcript_text
 from yt_translate.build_site import build_site as build_static_site
 
 
+def _load_dotenv(path: Path | None = None) -> None:
+    """Load a project-local .env without overriding explicitly set variables."""
+    env_path = path or Path.cwd() / ".env"
+    if not env_path.is_file():
+        return
+    for raw_line in env_path.read_text(encoding="utf-8").splitlines():
+        line = raw_line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, value = line.split("=", 1)
+        key = key.removeprefix("export ").strip()
+        value = value.strip().strip('"').strip("'")
+        if key and key not in os.environ:
+            os.environ[key] = value
+
+
+_load_dotenv()
+
+
 @click.command()
 @click.argument("playlist")
 @click.option("--output-dir", default="playlist-summaries", show_default=True, type=click.Path(path_type=Path))
-@click.option("--base-url", default="http://192.168.150.100:4004/v1", show_default=True)
-@click.option("--model", "-m", default="gpt-5.6-terra", show_default=True)
+@click.option("--base-url", default=lambda: os.getenv("LITELLM_BASE_URL", "http://192.168.150.100:4004/v1"), show_default=True)
+@click.option("--model", "-m", default=lambda: os.getenv("LITELLM_MODEL", "gpt-5.6-terra"), show_default=True)
 @click.option("--api-key", envvar="LITELLM_API_KEY", default=None, help="LiteLLM API key (or set LITELLM_API_KEY).")
 @click.option("--limit", type=click.IntRange(min=1), default=None, help="Process only the first N videos.")
 @click.option("--build-site/--no-build-site", default=True, show_default=True, help="Rebuild the local static site when finished.")

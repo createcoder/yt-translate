@@ -77,6 +77,10 @@ to AI infrastructure, Databricks, Azure, and Azure AI Foundry work, and the comp
 timestamped transcript. It tries `youtube-transcript-api` first and falls back to
 `yt-dlp` English manual or auto-generated captions.
 
+For playlist summaries, create a `.env` file from `.env.example`. The command reads
+`LITELLM_BASE_URL`, `LITELLM_MODEL`, and `LITELLM_API_KEY` automatically; no shell
+profile setup is needed.
+
 ## Options
 
 | Option | Default | Description |
