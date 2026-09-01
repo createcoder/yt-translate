@@ -192,15 +192,64 @@ function renderArticle() {
 }
 
 function appendMarkdownText(parent, markdown) {
-  for (const line of (markdown || "").split("\n")) {
+  const lines = (markdown || "").split("\n");
+  for (let i = 0; i < lines.length; i += 1) {
+    const line = lines[i];
     if (!line.trim()) continue;
+    if (isTableRow(line) && i + 1 < lines.length && isTableDivider(lines[i + 1])) {
+      const wrapper = document.createElement("div");
+      wrapper.className = "table-scroll";
+      const table = document.createElement("table");
+      const header = document.createElement("tr");
+      for (const cell of tableCells(line)) {
+        const th = document.createElement("th");
+        th.textContent = cleanMarkdown(cell);
+        header.appendChild(th);
+      }
+      const thead = document.createElement("thead");
+      thead.appendChild(header);
+      table.appendChild(thead);
+      const tbody = document.createElement("tbody");
+      i += 2;
+      while (i < lines.length && isTableRow(lines[i])) {
+        const row = document.createElement("tr");
+        for (const cell of tableCells(lines[i])) {
+          const td = document.createElement("td");
+          td.textContent = cleanMarkdown(cell);
+          row.appendChild(td);
+        }
+        tbody.appendChild(row);
+        i += 1;
+      }
+      i -= 1;
+      table.appendChild(tbody);
+      wrapper.appendChild(table);
+      parent.appendChild(wrapper);
+      continue;
+    }
     const element = line.startsWith("### ") ? document.createElement("h5")
       : line.startsWith("## ") ? document.createElement("h4")
       : line.startsWith("# ") ? document.createElement("h3")
       : line.startsWith("- ") ? document.createElement("li") : document.createElement("p");
-    element.textContent = line.replace(/^#{1,3}\s+|^-\s+/, "");
+    element.textContent = cleanMarkdown(line.replace(/^#{1,3}\s+|^-\s+/, ""));
     parent.appendChild(element);
   }
+}
+
+function isTableRow(line) {
+  return /^\s*\|.*\|\s*$/.test(line);
+}
+
+function isTableDivider(line) {
+  return isTableRow(line) && tableCells(line).every(cell => /^:?-{3,}:?$/.test(cell));
+}
+
+function tableCells(line) {
+  return line.trim().replace(/^\||\|$/g, "").split("|").map(cell => cell.trim());
+}
+
+function cleanMarkdown(text) {
+  return text.replace(/\*\*(.*?)\*\*/g, "$1").replace(/`([^`]+)`/g, "$1");
 }
 
 // --- Navigation ---
