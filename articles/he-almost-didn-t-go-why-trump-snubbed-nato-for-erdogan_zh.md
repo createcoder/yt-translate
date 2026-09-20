@@ -6,16 +6,16 @@
 
 ---
 
-> For months, Europeans have been planning strategies to deal with Donald Trump at this week's NATO summit. And it turns out the president almost didn't go. >> I was very disappointed with NATO. And frankly, if it weren't held in Turkey, where my friend happens to be a very strong leader, a very strong uh person, I it's possible that I wouldn't have attend. I felt I had to attend because of the fact that, you know, I know he's gone all out.
+> For months, Europeans have been planning strategies to deal with Donald Trump at this week's NATO summit. And it turns out the president almost didn't go. I was very disappointed with NATO. And frankly, if it weren't held in Turkey, where my friend happens to be a very strong leader, a very strong uh person, I it's possible that I wouldn't have attend. I felt I had to attend because of the fact that, you know, I know he's gone all out.
 
 几个月来，欧洲各国一直在为应对本周北约峰会上的唐纳德·特朗普而制定策略。令人意外的是，这位总统差点就缺席了。
->> 我对北约非常失望。坦白说，如果峰会不在土耳其举行，而我的朋友恰好是一位非常强势的领导人、一个非常强势的人，我可能就不会去了。但我之所以觉得必须出席，是因为我知道他已经全力以赴了。
+我对北约非常失望。坦白说，如果峰会不在土耳其举行，而我的朋友恰好是一位非常强势的领导人、一个非常强势的人，我可能就不会去了。但我之所以觉得必须出席，是因为我知道他已经全力以赴了。
 
 ---
 
-> Turkish President Erdogan picked up on that theme of a strong leader when he talked about Trump himself. >> The fact that we are convening here today for the NATO Ankura summit and that all the leaders are arriving and have arrived and we will be executing the NATO summit tomorrow with the presence of President Trump which will be adding might and strength to our summit. And two days earlier on Independence Day, another world leader singled out Donald Trump and the role of the United States. Russian President Vladimir Putin spent 85 minutes on the phone with President Trump. And that call has more to do with reality than all the European posturing in Anchora.
+> Turkish President Erdogan picked up on that theme of a strong leader when he talked about Trump himself. The fact that we are convening here today for the NATO Ankura summit and that all the leaders are arriving and have arrived and we will be executing the NATO summit tomorrow with the presence of President Trump which will be adding might and strength to our summit. And two days earlier on Independence Day, another world leader singled out Donald Trump and the role of the United States. Russian President Vladimir Putin spent 85 minutes on the phone with President Trump. And that call has more to do with reality than all the European posturing in Anchora.
 
-土耳其总统埃尔多安在谈及特朗普本人时，呼应了“强人领袖”这一主题。>> 我们今天在此齐聚举行北约安卡拉峰会，各国领导人已陆续抵达。明天，在特朗普总统的出席下，我们将正式召开北约峰会，这将为峰会增添力量与分量。而在两天前的独立日，另一位国家领导人特意提到了唐纳德·特朗普以及美国所扮演的角色。俄罗斯总统弗拉基米尔·普京与特朗普总统通了长达85分钟的电话。与欧洲各国在安卡拉的种种姿态相比，这次通话才更贴近现实。
+土耳其总统埃尔多安在谈及特朗普本人时，呼应了“强人领袖”这一主题。 我们今天在此齐聚举行北约安卡拉峰会，各国领导人已陆续抵达。明天，在特朗普总统的出席下，我们将正式召开北约峰会，这将为峰会增添力量与分量。而在两天前的独立日，另一位国家领导人特意提到了唐纳德·特朗普以及美国所扮演的角色。俄罗斯总统弗拉基米尔·普京与特朗普总统通了长达85分钟的电话。与欧洲各国在安卡拉的种种姿态相比，这次通话才更贴近现实。
 
 ---
 
@@ -31,9 +31,9 @@
 
 ---
 
-> And that was followed by President Erdogan standing with President Trump while Canon saluted the Star Spangled Banner. Now, by contrast, EU had Ursula Vanderelion arrived in what looked like a Turkish Uber and Canada's Mark Carney was greeted on the tarmac by Turkeykey's finance minister. Seeing the difference between the reception afforded to Trump and these others will make it easier to understand what really went on. Now, President Trump made some very precisely crafted statements about Turkey. >> Turkey has been a great ally for us.
+> And that was followed by President Erdogan standing with President Trump while Canon saluted the Star Spangled Banner. Now, by contrast, EU had Ursula Vanderelion arrived in what looked like a Turkish Uber and Canada's Mark Carney was greeted on the tarmac by Turkeykey's finance minister. Seeing the difference between the reception afforded to Trump and these others will make it easier to understand what really went on. Now, President Trump made some very precisely crafted statements about Turkey. Turkey has been a great ally for us.
 
-随后，埃尔多安总统与特朗普总统并肩而立，礼炮鸣响向《星条旗永不落》致敬。相比之下，欧盟的冯德莱恩乘坐着一辆看起来像土耳其优步的车抵达，而加拿大的马克·卡尼则在停机坪上由土耳其财政部长亲自迎接。对比特朗普与其他人所受到的接待差异，将有助于我们更清楚地了解幕后究竟发生了什么。接着，特朗普总统就土耳其发表了一些措辞极为精准的声明。>> 土耳其一直是我们伟大的盟友。
+随后，埃尔多安总统与特朗普总统并肩而立，礼炮鸣响向《星条旗永不落》致敬。相比之下，欧盟的冯德莱恩乘坐着一辆看起来像土耳其优步的车抵达，而加拿大的马克·卡尼则在停机坪上由土耳其财政部长亲自迎接。对比特朗普与其他人所受到的接待差异，将有助于我们更清楚地了解幕后究竟发生了什么。接着，特朗普总统就土耳其发表了一些措辞极为精准的声明。 土耳其一直是我们伟大的盟友。
 
 ---
 
@@ -127,7 +127,7 @@
 
 ---
 
-> President Trump is building a different set of alliances with nations that are intent on their own interests and Turkey is one of those. Here's something else from that press conference. asked about the Ukraine Russia conflict. President Trump said it's going to get settled and then he pointed to Erdogan and he said >> it along very well with and we're going to get it settled and helping us get it settled as he's helping with Iran. >> So think about what's actually going on. You're watching the president restructure the geopolitical map.
+> President Trump is building a different set of alliances with nations that are intent on their own interests and Turkey is one of those. Here's something else from that press conference. asked about the Ukraine Russia conflict. President Trump said it's going to get settled and then he pointed to Erdogan and he said it along very well with and we're going to get it settled and helping us get it settled as he's helping with Iran. So think about what's actually going on. You're watching the president restructure the geopolitical map.
 
 特朗普总统正在与那些一心谋求自身利益的国家构建全新的联盟关系，土耳其便是其中之一。以下是那场新闻发布会上的另一段内容：当被问及俄乌冲突时，特朗普总统表示，该冲突必将得到解决。随后他指向埃尔多安说道：“我们相处得很融洽，我们一定会解决这个问题，他也在协助我们解决，正如他协助处理伊朗问题一样。”请大家仔细想想这背后究竟意味着什么。你正在见证总统重塑全球地缘政治版图。
 
@@ -181,6 +181,6 @@
 
 ---
 
-> This has been your Wednesday update. Thanks for watching. >> Please take a moment and subscribe to our free newsletter at prometheianaction.com.
+> This has been your Wednesday update. Thanks for watching. Please take a moment and subscribe to our free newsletter at prometheianaction.com.
 
-以上就是您的周三更新。感谢您的观看。>> 请花一点时间，访问 prometheianaction.com 订阅我们的免费通讯。
+以上就是您的周三更新。感谢您的观看。 请花一点时间，访问 prometheianaction.com 订阅我们的免费通讯。

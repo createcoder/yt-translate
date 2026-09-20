@@ -12,15 +12,15 @@
 
 ---
 
-> The organization which just won three congressional seats in New York City and another one in Colorado yesterday. They want to destroy this country as we know it. Here's President Trump talking about the danger. >> Because it's not socialism, it's really communism. They use the word social democrat because it sounds so nice, but it's really communism we're talking about.
+> The organization which just won three congressional seats in New York City and another one in Colorado yesterday. They want to destroy this country as we know it. Here's President Trump talking about the danger. Because it's not socialism, it's really communism. They use the word social democrat because it sounds so nice, but it's really communism we're talking about.
 
-该组织昨日在纽约市赢得三个国会席位，并在科罗拉多州赢得一个席位。他们意图摧毁我们熟知的这个国家。以下是特朗普总统关于这一危险的讲话：>> 这并非社会主义，而是真正的共产主义。他们使用“社会民主党人”一词，因为听起来悦耳动听，但我们所谈论的实际上是共产主义。
+该组织昨日在纽约市赢得三个国会席位，并在科罗拉多州赢得一个席位。他们意图摧毁我们熟知的这个国家。以下是特朗普总统关于这一危险的讲话： 这并非社会主义，而是真正的共产主义。他们使用“社会民主党人”一词，因为听起来悦耳动听，但我们所谈论的实际上是共产主义。
 
 ---
 
-> I think it's the biggest threat to our nation there is, maybe since our founding. That includes World War II, World War II, September 11th. It includes the Pearl Harbor attack. I think this is the biggest threat to our nation. >> Is he exaggerating?
+> I think it's the biggest threat to our nation there is, maybe since our founding. That includes World War II, World War II, September 11th. It includes the Pearl Harbor attack. I think this is the biggest threat to our nation. Is he exaggerating?
 
-我认为这是我国面临的最大威胁，或许自建国以来前所未有。这包括第二次世界大战、9·11事件以及珍珠港事件。我认为这是我国面临的最大威胁。>> 他是否在夸大其词？
+我认为这是我国面临的最大威胁，或许自建国以来前所未有。这包括第二次世界大战、9·11事件以及珍珠港事件。我认为这是我国面临的最大威胁。 他是否在夸大其词？
 
 ---
 
@@ -36,15 +36,15 @@
 
 ---
 
-> He has radical allies to deploy, namely the Democratic Socialists of America. So, all revolutions are new beginnings. Here's Scott Bessent yesterday talking about our current economy. >> I think we are at the edge of an innovation wave that we are seeing here. We are reshoring manufacturing under President Trump's policies.
+> He has radical allies to deploy, namely the Democratic Socialists of America. So, all revolutions are new beginnings. Here's Scott Bessent yesterday talking about our current economy. I think we are at the edge of an innovation wave that we are seeing here. We are reshoring manufacturing under President Trump's policies.
 
-他拥有激进盟友可供调遣，即美国民主社会主义者。因此，所有革命都是崭新的开端。以下是斯科特·贝森特昨日就我们当前经济状况的发言：>> 我认为，我们正站在一波创新浪潮的边缘，这股浪潮正在这里显现。在特朗普总统的政策推动下，我们正将制造业回流。
+他拥有激进盟友可供调遣，即美国民主社会主义者。因此，所有革命都是崭新的开端。以下是斯科特·贝森特昨日就我们当前经济状况的发言： 我认为，我们正站在一波创新浪潮的边缘，这股浪潮正在这里显现。在特朗普总统的政策推动下，我们正将制造业回流。
 
 ---
 
-> The United States is the best place in the world to bring bring uh, build your factory, have tax certainty, regulatory certainty, which is something this administration has has really done, and energy certainty. And, you know, back to the gasoline prices, uh, dur- during the Iran conflict, the US economy powered through it. The economy's been very strong. We've been creating about a hundred seventy thousand dollar, I mean, a hundred seventy thousand jobs a month during the conflict, and, you know, I wouldn't be surprised, I haven't seen the number, if, uh, this month's job number is very strong. >> He's talking about an innovation way, new technologies, new inventions, in an economy already resilient enough to defy all the predictions of disaster from the Iran war.
+> The United States is the best place in the world to bring bring uh, build your factory, have tax certainty, regulatory certainty, which is something this administration has has really done, and energy certainty. And, you know, back to the gasoline prices, uh, dur- during the Iran conflict, the US economy powered through it. The economy's been very strong. We've been creating about a hundred seventy thousand dollar, I mean, a hundred seventy thousand jobs a month during the conflict, and, you know, I wouldn't be surprised, I haven't seen the number, if, uh, this month's job number is very strong. He's talking about an innovation way, new technologies, new inventions, in an economy already resilient enough to defy all the predictions of disaster from the Iran war.
 
-美国是全球最佳的投资建厂之地，能够提供税收确定性、监管确定性——本届政府在这方面取得了显著成效——以及能源确定性。至于汽油价格，在伊朗冲突期间，美国经济依然强劲前行。整体经济表现十分稳健。在冲突期间，我们每月新增约17万个就业岗位。我尚未看到最新数据，但如果本月就业数据依然强劲，我也不会感到意外。>> 他所说的创新，指的是新技术和新发明，而美国经济本身已具备足够的韧性，足以抵御关于伊朗战争将引发灾难的所有预测。
+美国是全球最佳的投资建厂之地，能够提供税收确定性、监管确定性——本届政府在这方面取得了显著成效——以及能源确定性。至于汽油价格，在伊朗冲突期间，美国经济依然强劲前行。整体经济表现十分稳健。在冲突期间，我们每月新增约17万个就业岗位。我尚未看到最新数据，但如果本月就业数据依然强劲，我也不会感到意外。 他所说的创新，指的是新技术和新发明，而美国经济本身已具备足够的韧性，足以抵御关于伊朗战争将引发灾难的所有预测。
 
 ---
 
@@ -84,21 +84,21 @@
 
 ---
 
-> "To cherish and stimulate the activity of the human mind by multiplying the objects of enterprise is not among the least considerable of the expedients by which the wealth of a nation may be promoted." Every new scene which is open to the busy nature of man to rouse and exert itself is the addition of a new energy to the general stock of effort. Hamilton's National Bank and credit policies made sure new discoveries got the support they needed to reach immediate use. That's how we built our way out of bankruptcy. Now, listen to Vice President Pence on President Trump's approach just yesterday. >> I do think fundamentally that Hamiltonian tradition is going to be what we see in the American right and will dominate American conservative economic thinking for the future, yeah, which is not laissez-faire.
+> "To cherish and stimulate the activity of the human mind by multiplying the objects of enterprise is not among the least considerable of the expedients by which the wealth of a nation may be promoted." Every new scene which is open to the busy nature of man to rouse and exert itself is the addition of a new energy to the general stock of effort. Hamilton's National Bank and credit policies made sure new discoveries got the support they needed to reach immediate use. That's how we built our way out of bankruptcy. Now, listen to Vice President Pence on President Trump's approach just yesterday. I do think fundamentally that Hamiltonian tradition is going to be what we see in the American right and will dominate American conservative economic thinking for the future, yeah, which is not laissez-faire.
 
-通过拓展事业领域来珍视并激发人类心智的活力，是促进国家财富增长的重要手段之一，其重要性不容忽视。每一个为忙碌的人类天性所开启的新场景，都能使其振奋并发挥潜能，从而为整体的努力储备增添新的能量。汉密尔顿的国家银行和信用政策确保了新发现能够获得必要的支持，得以迅速投入实际应用。正是凭借这一路径，我们走出了破产的困境。现在，请聆听副总统彭斯昨日对特朗普总统做法的阐述。 >> 我坚信，汉密尔顿式的传统将成为美国右翼的核心，并将主导未来美国保守主义的经济思维，其核心并非自由放任。
-
----
-
-> It's actually much more about, you know, building the kind of tools, building the kind of infrastructure that allow human beings to flourish. >> Yeah. >> That allow national and native industries to flourish at the expense of a hyper-globalized economy. And I think those are the basic principles that are going to carry us into the future. But to me, it's it's fundamentally about the dignity of the human person. The economy is a tool to service the dig- dignity of the human person.
-
-其实，这更多是关于构建那样的工具和基础设施，使人类能够蓬勃发展。>> 是的。>> 使国家和本土产业得以蓬勃发展，而不是以高度全球化的经济为代价。我认为这些基本原则将引领我们走向未来。但对我来说，这根本上关乎人的尊严。经济是服务于人的尊严的工具。
+通过拓展事业领域来珍视并激发人类心智的活力，是促进国家财富增长的重要手段之一，其重要性不容忽视。每一个为忙碌的人类天性所开启的新场景，都能使其振奋并发挥潜能，从而为整体的努力储备增添新的能量。汉密尔顿的国家银行和信用政策确保了新发现能够获得必要的支持，得以迅速投入实际应用。正是凭借这一路径，我们走出了破产的困境。现在，请聆听副总统彭斯昨日对特朗普总统做法的阐述。 我坚信，汉密尔顿式的传统将成为美国右翼的核心，并将主导未来美国保守主义的经济思维，其核心并非自由放任。
 
 ---
 
-> If a set of economic policies make it easier for a person to raise a family, to earn a living wage, to give back to their community, to maybe go to church on Sunday, or to actually spend some leisure time building the kind of life that matters, like that is the sort of thing that we want to be supportive of. >> If you want to learn more about this history and why it's been banished from our schools, you need to subscribe to our free newsletter at prometheanaction.com. You'll find a whole lot more of the background there. Now, let's look at Mark Carney's attempted counterrevolution. Carney has been on a speaking tour with policy what he says is a third way for middle countries against Donald Trump.
+> It's actually much more about, you know, building the kind of tools, building the kind of infrastructure that allow human beings to flourish. Yeah. That allow national and native industries to flourish at the expense of a hyper-globalized economy. And I think those are the basic principles that are going to carry us into the future. But to me, it's it's fundamentally about the dignity of the human person. The economy is a tool to service the dig- dignity of the human person.
 
-如果一套经济政策能够让人们更容易养育家庭、赚取维持生计的工资、回馈社区、或许还能在周日去教堂，或者真正腾出一些休闲时间，去构建那种有意义的生活，那么这类政策正是我们应当予以支持的。>> 如果你想了解更多关于这段历史，以及它为何被从我们的学校中抹去，请订阅我们在 prometheanaction.com 提供的免费通讯。在那里，你会发现更多背景信息。现在，让我们来看看马克·卡尼试图发起的反革命。卡尼正在进行一场演讲巡回活动，推广他所谓的“第三条道路”，旨在为中产阶级国家提供应对唐纳德·特朗普的政策方案。
+其实，这更多是关于构建那样的工具和基础设施，使人类能够蓬勃发展。 是的。 使国家和本土产业得以蓬勃发展，而不是以高度全球化的经济为代价。我认为这些基本原则将引领我们走向未来。但对我来说，这根本上关乎人的尊严。经济是服务于人的尊严的工具。
+
+---
+
+> If a set of economic policies make it easier for a person to raise a family, to earn a living wage, to give back to their community, to maybe go to church on Sunday, or to actually spend some leisure time building the kind of life that matters, like that is the sort of thing that we want to be supportive of. If you want to learn more about this history and why it's been banished from our schools, you need to subscribe to our free newsletter at prometheanaction.com. You'll find a whole lot more of the background there. Now, let's look at Mark Carney's attempted counterrevolution. Carney has been on a speaking tour with policy what he says is a third way for middle countries against Donald Trump.
+
+如果一套经济政策能够让人们更容易养育家庭、赚取维持生计的工资、回馈社区、或许还能在周日去教堂，或者真正腾出一些休闲时间，去构建那种有意义的生活，那么这类政策正是我们应当予以支持的。 如果你想了解更多关于这段历史，以及它为何被从我们的学校中抹去，请订阅我们在 prometheanaction.com 提供的免费通讯。在那里，你会发现更多背景信息。现在，让我们来看看马克·卡尼试图发起的反革命。卡尼正在进行一场演讲巡回活动，推广他所谓的“第三条道路”，旨在为中产阶级国家提供应对唐纳德·特朗普的政策方案。
 
 ---
 
@@ -192,6 +192,6 @@
 
 ---
 
-> Thanks so much for listening. >> Please take a moment and subscribe to our free newsletter at prometheanaction.com.
+> Thanks so much for listening. Please take a moment and subscribe to our free newsletter at prometheanaction.com.
 
-非常感谢你的聆听。>> 请花一点时间订阅我们在 prometheanaction.com 上的免费通讯。
+非常感谢你的聆听。 请花一点时间订阅我们在 prometheanaction.com 上的免费通讯。

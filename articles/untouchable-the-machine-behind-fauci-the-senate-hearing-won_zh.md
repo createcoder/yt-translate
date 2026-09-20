@@ -36,10 +36,10 @@
 
 ---
 
-> They went along with one of the most monstrous crimes of our lifetimes. It sweep included the rigged election which yielded an incompetent man as president of the United States. Here's Larry Oconor on Mark Hpurn's two-way broadcast Tuesday. >> I'd like a venture guest to your question about why liberals love him and why the left and the media love him. It has to do with Trump.
+> They went along with one of the most monstrous crimes of our lifetimes. It sweep included the rigged election which yielded an incompetent man as president of the United States. Here's Larry Oconor on Mark Hpurn's two-way broadcast Tuesday. I'd like a venture guest to your question about why liberals love him and why the left and the media love him. It has to do with Trump.
 
 他们默许了我们有生以来最骇人听闻的罪行之一。其中包括那场被操纵的选举，正是这场选举让一个无能之辈当上了美国总统。以下是拉里·奥康纳在马克·赫恩周二的双向广播节目中的片段：
->> 我想邀请一位嘉宾来回答你的问题：为什么自由派喜欢他？为什么左翼和媒体也都喜欢他？这与特朗普有关。
+我想邀请一位嘉宾来回答你的问题：为什么自由派喜欢他？为什么左翼和媒体也都喜欢他？这与特朗普有关。
 
 ---
 
@@ -115,18 +115,18 @@
 
 ---
 
-> The difference between Trump and past presidents who succumbed to this machine is that Trump is a builder and defines himself as a maverick. He answered both Netanyahu and Zolinsky in an interview with Fox and Friends on Tuesday. Here are the key clips. >> Very interesting with Lindsay. He was very much a hawk, as you would say, on a run.
+> The difference between Trump and past presidents who succumbed to this machine is that Trump is a builder and defines himself as a maverick. He answered both Netanyahu and Zolinsky in an interview with Fox and Friends on Tuesday. Here are the key clips. Very interesting with Lindsay. He was very much a hawk, as you would say, on a run.
 
 特朗普与那些向这台机器屈服的历届总统不同，他是一位建设者，并且自视为特立独行的人。在周二接受福克斯《朋友早间秀》节目采访时，他分别回应了内塔尼亚胡和佐林斯基。以下是关键片段。
->> 与林赛的互动非常有趣。用你们的话说，他当时可是个十足的鹰派，而且势头正猛。
+与林赛的互动非常有趣。用你们的话说，他当时可是个十足的鹰派，而且势头正猛。
 
 ---
 
-> And over the last few weeks, I would say that he became like, if you could make a deal, it's better that better making a deal in this case than just uh destroying the rest of the country. We've destroyed most of it, frankly. But uh he was he was somebody that said it's a good time to make a deal. Nice time to make a deal. >> What does a good deal look like? >> Now, I wouldn't say necessarily he feels that way about Ukraine.
+> And over the last few weeks, I would say that he became like, if you could make a deal, it's better that better making a deal in this case than just uh destroying the rest of the country. We've destroyed most of it, frankly. But uh he was he was somebody that said it's a good time to make a deal. Nice time to make a deal. What does a good deal look like? Now, I wouldn't say necessarily he feels that way about Ukraine.
 
 过去几周里，我觉得他的态度有所转变。如果可以达成协议，在他看来，在这种情况下达成协议总比把国家其余部分彻底毁掉要好。坦白说，我们其实已经把大部分给毁了。但他确实说过，现在是达成协议的好时机，是个不错的时机。
->> 什么样的协议才算好协议？
->> 不过，我不一定认为他对乌克兰也有同样的看法。
+什么样的协议才算好协议？
+不过，我不一定认为他对乌克兰也有同样的看法。
 
 ---
 
@@ -136,23 +136,23 @@
 
 ---
 
-> I jokingly say, and it's nothing funny about it, but he's never seen a war that he didn't like. >> There are reports now that um Netanyahu is going to talk to you about ongoing excavation at um Pickax Mountain, construction vehicles entering and exiting t exiting tunnels, paving new access roads. Satellite imagery and intel indicates that Iran is actively constructing and fortifying Pickax Mountain. How will we respond? >> Well, I don't need BB to tell me that. BB's telling me that because he wants me to stay involved.
+> I jokingly say, and it's nothing funny about it, but he's never seen a war that he didn't like. There are reports now that um Netanyahu is going to talk to you about ongoing excavation at um Pickax Mountain, construction vehicles entering and exiting t exiting tunnels, paving new access roads. Satellite imagery and intel indicates that Iran is actively constructing and fortifying Pickax Mountain. How will we respond? Well, I don't need BB to tell me that. BB's telling me that because he wants me to stay involved.
 
 我开玩笑地说，但这其实一点也不好笑——他似乎从未见过一场他不喜欢的战争。
->> 目前有报道称，内塔尼亚胡将与你会谈，讨论镐山地区正在进行的挖掘工程，包括施工车辆进出隧道以及铺设新通道等事宜。卫星图像与情报显示，伊朗正积极对镐山进行建设与加固。我们将作何回应？
->> 嗯，其实不必BB特意提醒我。他之所以告诉我这些，是希望我能继续参与其中。
+目前有报道称，内塔尼亚胡将与你会谈，讨论镐山地区正在进行的挖掘工程，包括施工车辆进出隧道以及铺设新通道等事宜。卫星图像与情报显示，伊朗正积极对镐山进行建设与加固。我们将作何回应？
+嗯，其实不必BB特意提醒我。他之所以告诉我这些，是希望我能继续参与其中。
 
 ---
 
-> I mean, I don't necessarily. We have the finest because of Space Force. We have the greatest cameras in the world focused on We know exactly what's going on, >> but no, I heard BB announce that. I said, why don't you just tell it to me?
+> I mean, I don't necessarily. We have the finest because of Space Force. We have the greatest cameras in the world focused on We know exactly what's going on, but no, I heard BB announce that. I said, why don't you just tell it to me?
 
 我的意思是，我不一定同意。多亏了太空军，我们才拥有最顶尖的系统。我们配备了全球最强大的摄像头，镜头对准……我们完全清楚到底发生了什么。但并不是，我是从BB那里听到这则消息的。我当时就想，你干嘛不直接告诉我呢？
 
 ---
 
-> Why do you have to announce it to the world? I know exactly what's going on at Pickax. It's not a big problem. We took out their nuclear sites and we'll have to take out pickaxe if we don't make a deal. >> Despite their differences, Donald Trump made Lindsey Graham his friend and sought to change him.
+> Why do you have to announce it to the world? I know exactly what's going on at Pickax. It's not a big problem. We took out their nuclear sites and we'll have to take out pickaxe if we don't make a deal. Despite their differences, Donald Trump made Lindsey Graham his friend and sought to change him.
 
-“你为什么要向全世界宣布？我对伊朗的实际情况一清二楚。这根本不是大问题。我们已经摧毁了他们的核设施，如果谈不成协议，我们就得再次打击伊朗。” >> 尽管两人存在分歧，唐纳德·特朗普还是将林赛·格雷厄姆变成了自己的朋友，并试图改变他。
+“你为什么要向全世界宣布？我对伊朗的实际情况一清二楚。这根本不是大问题。我们已经摧毁了他们的核设施，如果谈不成协议，我们就得再次打击伊朗。” 尽管两人存在分歧，唐纳德·特朗普还是将林赛·格雷厄姆变成了自己的朋友，并试图改变他。
 
 ---
 
@@ -228,6 +228,6 @@ Prometheian Action 正力求在中期选举前解决这一问题。但要有效�
 
 ---
 
-> Thanks for listening. >> Please take a moment and subscribe to our free newsletter at prometheianaction.com.
+> Thanks for listening. Please take a moment and subscribe to our free newsletter at prometheianaction.com.
 
-感谢您的收听。>> 请花片刻时间，前往 prometheianaction.com 免费订阅我们的电子报。
+感谢您的收听。 请花片刻时间，前往 prometheianaction.com 免费订阅我们的电子报。

@@ -144,9 +144,9 @@
 
 ---
 
-> Congressman Wenstrup asked Fauci flat out at this hearing whether he's ever discussed viruses with US intelligence. >> But did you at any time talk to concerning viral research of any kind? >> Again, I say that at the time that there was concern about the fact that Al-Qaeda may have been using or potentially using bio-weapons, we had discussions with intelligence agencies about that >> Sure, but not as related to, say, COVID-19. >> Not to my knowledge about COVID. >> So, the man who built the network, ran the cover-up, and lied about it twice under oaths, which leaves the biggest question of all still open. What was this whole thing for? 40 labs in Ukraine alone. Gain of function work on pathogens that kill half the people they infect. A pandemic that killed millions and handed the world's would-be planners the exact emergency they'd been waiting for.
+> Congressman Wenstrup asked Fauci flat out at this hearing whether he's ever discussed viruses with US intelligence. But did you at any time talk to concerning viral research of any kind? Again, I say that at the time that there was concern about the fact that Al-Qaeda may have been using or potentially using bio-weapons, we had discussions with intelligence agencies about that Sure, but not as related to, say, COVID-19. Not to my knowledge about COVID. So, the man who built the network, ran the cover-up, and lied about it twice under oaths, which leaves the biggest question of all still open. What was this whole thing for? 40 labs in Ukraine alone. Gain of function work on pathogens that kill half the people they infect. A pandemic that killed millions and handed the world's would-be planners the exact emergency they'd been waiting for.
 
-在听证会上，众议员温斯特普直截了当地问福奇，他是否曾就病毒问题与美国情报机构进行过讨论。>> 但你是否曾在任何时候就任何种类的病毒研究进行过交流？>> 我再次表示，当时人们担心基地组织可能正在使用或潜在使用生物武器，我们因此与情报机构就此进行了讨论。>> 当然，但这与新冠疫情无关。>> 据我所知，与新冠疫情无关。>> 因此，这位构建网络、主导掩盖并两次在宣誓下撒谎的人，留下了一个最大的问题仍未得到解答：这一切究竟是为了什么？仅在乌克兰就有40个实验室，对感染后致死率达一半的病原体进行功能增益研究。一场夺去数百万人生命的疫情，将世界既定的策划者们一直等待的紧急状态拱手相送。
+在听证会上，众议员温斯特普直截了当地问福奇，他是否曾就病毒问题与美国情报机构进行过讨论。 但你是否曾在任何时候就任何种类的病毒研究进行过交流？ 我再次表示，当时人们担心基地组织可能正在使用或潜在使用生物武器，我们因此与情报机构就此进行了讨论。 当然，但这与新冠疫情无关。 据我所知，与新冠疫情无关。 因此，这位构建网络、主导掩盖并两次在宣誓下撒谎的人，留下了一个最大的问题仍未得到解答：这一切究竟是为了什么？仅在乌克兰就有40个实验室，对感染后致死率达一半的病原体进行功能增益研究。一场夺去数百万人生命的疫情，将世界既定的策划者们一直等待的紧急状态拱手相送。
 
 ---
 
@@ -210,6 +210,6 @@
 
 ---
 
-> This has been your Monday update. Thanks for listening. >> Please take a moment and subscribe to our free newsletter at prometheanaction.com.
+> This has been your Monday update. Thanks for listening. Please take a moment and subscribe to our free newsletter at prometheanaction.com.
 
-以上就是您本周一的资讯更新。感谢您的收听。>> 请花一点时间，在 prometheanaction.com 订阅我们的免费通讯。
+以上就是您本周一的资讯更新。感谢您的收听。 请花一点时间，在 prometheanaction.com 订阅我们的免费通讯。

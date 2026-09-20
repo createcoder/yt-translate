@@ -6,16 +6,16 @@
 
 ---
 
-> Have you been following the BBC, New York Times story about US sailors jumping off an aircraft carrier in the Persian Gulf because the Navy is stressing them too much? Right now, you even have showboating Democrat congressman demanding to come on board the carrier in an active war zone to inspect the conditions. But I think this story will prove to be a fatal mistake by the city of London and the Democrats trying to use the Iran war to destroy Donald Trump. Here's Afghanistan war veteran and double amputee Joey Jones responding on Saturday. >> How weak are you on TV complaining about tuna and noodles?
+> Have you been following the BBC, New York Times story about US sailors jumping off an aircraft carrier in the Persian Gulf because the Navy is stressing them too much? Right now, you even have showboating Democrat congressman demanding to come on board the carrier in an active war zone to inspect the conditions. But I think this story will prove to be a fatal mistake by the city of London and the Democrats trying to use the Iran war to destroy Donald Trump. Here's Afghanistan war veteran and double amputee Joey Jones responding on Saturday. How weak are you on TV complaining about tuna and noodles?
 
-你们有关注BBC和《纽约时报》关于美国水兵因海军压力过大而跳下波斯湾航空母舰的报道吗？眼下，甚至有一位哗众取宠的民主党国会议员要求前往交战区内的航母上检查条件。但我认为，这则报道将成为伦敦方面和民主党试图利用伊朗战争摧毁唐纳德·特朗普的致命失误。以下是阿富汗战争退伍军人、双腿截肢者乔伊·琼斯周六的回应。>> 你们在电视上抱怨金枪鱼和面条，到底有多脆弱？
+你们有关注BBC和《纽约时报》关于美国水兵因海军压力过大而跳下波斯湾航空母舰的报道吗？眼下，甚至有一位哗众取宠的民主党国会议员要求前往交战区内的航母上检查条件。但我认为，这则报道将成为伦敦方面和民主党试图利用伊朗战争摧毁唐纳德·特朗普的致命失误。以下是阿富汗战争退伍军人、双腿截肢者乔伊·琼斯周六的回应。 你们在电视上抱怨金枪鱼和面条，到底有多脆弱？
 
 ---
 
-> I'm sorry. You volunteered to serve your country. you can come back, get out of the military and do like all of these Democrat veterans and complain about it and make commercials and and be a sellout if you want to and come up with uh with a new way of doing things. The last Democrat president that I remember that was deploying troops, Barack Obama, had the army going to Iraq on patrol bases for 15 months at a time eating MREs. >> Here's Secretary of the Navy Hungalow with a similar response. Unfortunately, the media are trying to paint our warriors as victims.
+> I'm sorry. You volunteered to serve your country. you can come back, get out of the military and do like all of these Democrat veterans and complain about it and make commercials and and be a sellout if you want to and come up with uh with a new way of doing things. The last Democrat president that I remember that was deploying troops, Barack Obama, had the army going to Iraq on patrol bases for 15 months at a time eating MREs. Here's Secretary of the Navy Hungalow with a similar response. Unfortunately, the media are trying to paint our warriors as victims.
 
 很抱歉。你是自愿参军报效国家的。你可以退伍回国，像那些民主党老兵一样抱怨连连、拍广告，如果你想当个背叛原则的人，完全可以，再去琢磨出一套新的做事方式。我记得上一位部署部队的民主党总统是奥巴马，他让军队在伊拉克的巡逻基地长期驻守，每次长达15个月，士兵们只能靠单兵野战口粮（MRE）充饥。
->> 以下是海军部长亨格洛的类似回应。遗憾的是，媒体正试图将我们的将士塑造成受害者。
+以下是海军部长亨格洛的类似回应。遗憾的是，媒体正试图将我们的将士塑造成受害者。
 
 ---
 
@@ -49,9 +49,9 @@
 
 ---
 
-> I feel confident we're accomplishing both of those goals, but it's inherently an unpredictable thing because the Iranians themselves are unpredictable and they sometimes don't honor the commitments they've made to us. >> The press pounced immediately on that statement. They said Vance was quote moving the goalpost again in a war quote Trump chose without any plan that is killing Americans at the quote gas pump ahead of the midterms. That's the fourbeat sentence we've heard so often it almost seems like reality. And that's the goal of any good psychological warfare operation.
+> I feel confident we're accomplishing both of those goals, but it's inherently an unpredictable thing because the Iranians themselves are unpredictable and they sometimes don't honor the commitments they've made to us. The press pounced immediately on that statement. They said Vance was quote moving the goalpost again in a war quote Trump chose without any plan that is killing Americans at the quote gas pump ahead of the midterms. That's the fourbeat sentence we've heard so often it almost seems like reality. And that's the goal of any good psychological warfare operation.
 
-“我有信心我们正在实现这两个目标，但这本质上是一件不可预测的事情，因为伊朗人本身就难以预测，而且他们有时会违背对我们的承诺。” >> 媒体立刻对此表态大做文章。他们称，万斯“再次在特朗普毫无计划就发动的战争中不断改变标准”，这场战争“在中期选举前夕，正让美国人在高油价下付出代价”。这就是我们听得太频繁的四句连缀表述，以至于它几乎成了现实。而这正是任何成功的心理战行动的目标。
+“我有信心我们正在实现这两个目标，但这本质上是一件不可预测的事情，因为伊朗人本身就难以预测，而且他们有时会违背对我们的承诺。” 媒体立刻对此表态大做文章。他们称，万斯“再次在特朗普毫无计划就发动的战争中不断改变标准”，这场战争“在中期选举前夕，正让美国人在高油价下付出代价”。这就是我们听得太频繁的四句连缀表述，以至于它几乎成了现实。而这正是任何成功的心理战行动的目标。
 
 ---
 
@@ -139,10 +139,10 @@
 
 ---
 
-> Once it's clear to the victims that they've been played and reality is injected into the situation. Here's Stephen Miller doing a very good job of doing just that on Saturday. >> This is a struggle for the survival of America. It's that serious. It's that real. [snorts] What you talked about, abolishing police, abolishing borders, abolishing ICE, abolishing fossil fuels, gutting the Department of War, these actions collectively would bring America to its knees.
+> Once it's clear to the victims that they've been played and reality is injected into the situation. Here's Stephen Miller doing a very good job of doing just that on Saturday. This is a struggle for the survival of America. It's that serious. It's that real. [snorts] What you talked about, abolishing police, abolishing borders, abolishing ICE, abolishing fossil fuels, gutting the Department of War, these actions collectively would bring America to its knees.
 
 当受害者们看清自己被人蒙骗，现实被重新注入这一局面时，真相便大白于天下。周六，斯蒂芬·米勒就很好地做到了这一点。
->> 这是一场关乎美国存亡的斗争。事情严重到了这个地步，真实到了这个地步。[嗤笑] 你们所谈论的那些——废除警察、拆除边境、取缔移民与海关执法局（ICE）、废除化石燃料、掏空战争部——这些行动加在一起，足以让美国陷入绝境。
+这是一场关乎美国存亡的斗争。事情严重到了这个地步，真实到了这个地步。[嗤笑] 你们所谈论的那些——废除警察、拆除边境、取缔移民与海关执法局（ICE）、废除化石燃料、掏空战争部——这些行动加在一起，足以让美国陷入绝境。
 
 ---
 

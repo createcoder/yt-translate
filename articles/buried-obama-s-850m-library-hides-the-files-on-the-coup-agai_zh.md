@@ -24,9 +24,9 @@
 
 ---
 
-> So, this isn't a presidential library, it's a cover-up. At the Thursday dedication, Valerie Jarrett, Obama's long-time manager, opened with this. >> We'd also like to take a moment to recognize the original inhabitants of the land upon which we are gathered today. We honor the Anishinaabe, the Council of Three Fires, the Ojibwe, the Odawa, and the Potawatomi Nations. >> But she didn't apologize to the current South Side residents for stealing a beautiful and historic public park. That land became Obama's center.
+> So, this isn't a presidential library, it's a cover-up. At the Thursday dedication, Valerie Jarrett, Obama's long-time manager, opened with this. We'd also like to take a moment to recognize the original inhabitants of the land upon which we are gathered today. We honor the Anishinaabe, the Council of Three Fires, the Ojibwe, the Odawa, and the Potawatomi Nations. But she didn't apologize to the current South Side residents for stealing a beautiful and historic public park. That land became Obama's center.
 
-所以，这根本不是什么总统图书馆，而是一场掩盖。在周四的揭幕仪式上，奥巴马的长期高级顾问瓦莱丽·贾瑞特在开场致辞中说道：>> 我们也想借此片刻，向今天聚集于此的土地的原始居民致以敬意。我们向阿尼希纳贝人、三火理事会、奥吉布瓦人、奥达瓦人和波塔瓦托米族致敬。>> 但她并未为强占一片美丽且历史悠久的公共公园一事，向南区的现任居民道歉。那片土地最终成了奥巴马中心的所在地。
+所以，这根本不是什么总统图书馆，而是一场掩盖。在周四的揭幕仪式上，奥巴马的长期高级顾问瓦莱丽·贾瑞特在开场致辞中说道： 我们也想借此片刻，向今天聚集于此的土地的原始居民致以敬意。我们向阿尼希纳贝人、三火理事会、奥吉布瓦人、奥达瓦人和波塔瓦托米族致敬。 但她并未为强占一片美丽且历史悠久的公共公园一事，向南区的现任居民道歉。那片土地最终成了奥巴马中心的所在地。
 
 ---
 
@@ -42,16 +42,16 @@
 
 ---
 
-> The Daily Beast, normally an Obama fan, calls this, and I quote, "a mockery of transparency." And here's what Obama said about the building he helped design. >> And it's why we designed the center not not to be some lifeless mausoleum. I am too young for that. Not just a place to see Michelle's dresses, although I understand that will be the top attraction. We wanted it to be a vibrant, living celebration of community, where we can learn together and share the joys of art and music and sport and play.
+> The Daily Beast, normally an Obama fan, calls this, and I quote, "a mockery of transparency." And here's what Obama said about the building he helped design. And it's why we designed the center not not to be some lifeless mausoleum. I am too young for that. Not just a place to see Michelle's dresses, although I understand that will be the top attraction. We wanted it to be a vibrant, living celebration of community, where we can learn together and share the joys of art and music and sport and play.
 
 《每日野兽》向来是奥巴马的拥趸，却称此举（我引用）“对透明度的嘲弄”。以下是奥巴马关于他参与设计的建筑所说的话：
->> “这就是为什么我们设计这座中心时，决意不让它成为一座毫无生气的陵墓。我可没那么老派。它不仅仅是一个展示米歇尔礼服的地方，尽管我知道那肯定会成为最受欢迎的景点。我们希望它成为一个充满活力的、生机勃勃的社区庆典场所，在这里我们可以共同学习，分享艺术、音乐、体育与游戏的乐趣。”
+“这就是为什么我们设计这座中心时，决意不让它成为一座毫无生气的陵墓。我可没那么老派。它不仅仅是一个展示米歇尔礼服的地方，尽管我知道那肯定会成为最受欢迎的景点。我们希望它成为一个充满活力的、生机勃勃的社区庆典场所，在这里我们可以共同学习，分享艺术、音乐、体育与游戏的乐趣。”
 
 ---
 
-> Because it's in those moments that we're reminded of our common humanity and and strengthen the bonds of trust that not only make our lives richer, but make our democracy stronger. >> Listen to those soaring words and then look at that building again. Doesn't it remind you of the entire Obama presidency? Isn't its brutality and ugliness the truth regarding the three presidencies preceding Donald Trump's surprise 2016 victory? Bill Clinton, George Bush, and Obama.
+> Because it's in those moments that we're reminded of our common humanity and and strengthen the bonds of trust that not only make our lives richer, but make our democracy stronger. Listen to those soaring words and then look at that building again. Doesn't it remind you of the entire Obama presidency? Isn't its brutality and ugliness the truth regarding the three presidencies preceding Donald Trump's surprise 2016 victory? Bill Clinton, George Bush, and Obama.
 
-因为正是在那些时刻，我们得以重温共通的人性，并加强信任的纽带。这些纽带不仅丰富了我们的生活，也让我们的民主更加稳固。>> 听听这些激昂的言辞，再回头看看那座建筑。它难道不让你想起奥巴马的整个总统任期吗？它的残酷与丑陋，难道不正是唐纳德·特朗普2016年意外胜选之前，那三位总统——比尔·克林顿、乔治·布什和奥巴马——执政时期的真实写照吗？
+因为正是在那些时刻，我们得以重温共通的人性，并加强信任的纽带。这些纽带不仅丰富了我们的生活，也让我们的民主更加稳固。 听听这些激昂的言辞，再回头看看那座建筑。它难道不让你想起奥巴马的整个总统任期吗？它的残酷与丑陋，难道不正是唐纳德·特朗普2016年意外胜选之前，那三位总统——比尔·克林顿、乔治·布什和奥巴马——执政时期的真实写照吗？
 
 ---
 
@@ -79,9 +79,9 @@
 
 ---
 
-> But in their speeches Thursday, they tried to claim the mantle of working-class heroes. Empathy for those below us. Listen to Michelle. >> It's why during our administration, we threw open the White House doors to all sorts of folks who don't usually get to meet the president or first lady. The families pinching pennies to send their first child to college.
+> But in their speeches Thursday, they tried to claim the mantle of working-class heroes. Empathy for those below us. Listen to Michelle. It's why during our administration, we threw open the White House doors to all sorts of folks who don't usually get to meet the president or first lady. The families pinching pennies to send their first child to college.
 
-但在周四的演讲中，他们试图标榜自己是工人阶级的英雄。对底层民众的共情。听听米歇尔怎么说。>> “正因如此，在我们执政期间，我们向各类普通人敞开了白宫大门，邀请那些平时难得见到总统或第一夫人的家庭走进白宫。那些省吃俭用、供第一个孩子上大学的家庭。”
+但在周四的演讲中，他们试图标榜自己是工人阶级的英雄。对底层民众的共情。听听米歇尔怎么说。 “正因如此，在我们执政期间，我们向各类普通人敞开了白宫大门，邀请那些平时难得见到总统或第一夫人的家庭走进白宫。那些省吃俭用、供第一个孩子上大学的家庭。”
 
 ---
 
@@ -97,9 +97,9 @@
 
 ---
 
-> They are us and we are them. >> Donald Trump won large sections of traditional working-class and middle-class voters from the Democrats in 2024 because he promised to turn around the nation's economic decline, bring back industry and manufacturing, close the open border, restore law and order, reinstill the tough American spirit, end the cultural suicide represented by climate hysteria, COVID mandates, censorship, and DEI. He put new before us like going to the moon and civilizing space. And he has kept those campaign promises. So in their speeches Thursday the Obamas tried to erase whole sections of their ruinous AU presidency in order to claim that they did and will do a better job supporting the working class and middle class than their enemy Donald Trump.
+> They are us and we are them. Donald Trump won large sections of traditional working-class and middle-class voters from the Democrats in 2024 because he promised to turn around the nation's economic decline, bring back industry and manufacturing, close the open border, restore law and order, reinstill the tough American spirit, end the cultural suicide represented by climate hysteria, COVID mandates, censorship, and DEI. He put new before us like going to the moon and civilizing space. And he has kept those campaign promises. So in their speeches Thursday the Obamas tried to erase whole sections of their ruinous AU presidency in order to claim that they did and will do a better job supporting the working class and middle class than their enemy Donald Trump.
 
-他们就是我们，我们就是他们。>> 2024年，唐纳德·特朗普从民主党手中赢得了大量传统工人阶级和中产阶级选民的支持，因为他承诺扭转国家经济下滑的趋势，重振工业与制造业，关闭开放边境，恢复法治与秩序，重拾坚韧的美国精神，终结由气候狂热、新冠强制令、言论审查以及多元化、公平与包容（DEI）所代表的“文化自杀”。他为我们树立了新的目标，例如登月和开发太空。而他确实兑现了这些竞选承诺。因此，在周四的演讲中，奥巴马夫妇试图抹去他们破坏性总统任期中的诸多篇章，以便宣称他们在支持工人阶级和中产阶级方面，做得比他们的对手唐纳德·特朗普更好。
+他们就是我们，我们就是他们。 2024年，唐纳德·特朗普从民主党手中赢得了大量传统工人阶级和中产阶级选民的支持，因为他承诺扭转国家经济下滑的趋势，重振工业与制造业，关闭开放边境，恢复法治与秩序，重拾坚韧的美国精神，终结由气候狂热、新冠强制令、言论审查以及多元化、公平与包容（DEI）所代表的“文化自杀”。他为我们树立了新的目标，例如登月和开发太空。而他确实兑现了这些竞选承诺。因此，在周四的演讲中，奥巴马夫妇试图抹去他们破坏性总统任期中的诸多篇章，以便宣称他们在支持工人阶级和中产阶级方面，做得比他们的对手唐纳德·特朗普更好。
 
 ---
 
@@ -133,9 +133,9 @@
 
 ---
 
-> But the very same National Archives and Records Administration gave Barack Obama every document from his administration with the power to decide when and whether it will be released or not. But now the worst nightmare of Obama and friends is coming true. Donald Trump now has the intelligence community working at least in part for him. Josh Ohlmann of Just the News just joined the administration to help the president declassify the truth about the 2020 elections. >> One programming note I want to make sure everybody on this show is aware of it.
+> But the very same National Archives and Records Administration gave Barack Obama every document from his administration with the power to decide when and whether it will be released or not. But now the worst nightmare of Obama and friends is coming true. Donald Trump now has the intelligence community working at least in part for him. Josh Ohlmann of Just the News just joined the administration to help the president declassify the truth about the 2020 elections. One programming note I want to make sure everybody on this show is aware of it.
 
-但正是同一个美国国家档案和记录管理局，将奥巴马政府时期的所有文件都移交给了他，并赋予他决定何时以及是否公开这些文件的权力。然而，奥巴马及其盟友最担心的噩梦正在成真。唐纳德·特朗普现在至少让情报界的一部分人为他效力。《Just the News》的乔什·奥尔曼刚刚加入政府团队，协助总统解密关于2020年大选的真相。>> 插播一条节目提示，我想确保本节目的所有观众都注意到这一点。
+但正是同一个美国国家档案和记录管理局，将奥巴马政府时期的所有文件都移交给了他，并赋予他决定何时以及是否公开这些文件的权力。然而，奥巴马及其盟友最担心的噩梦正在成真。唐纳德·特朗普现在至少让情报界的一部分人为他效力。《Just the News》的乔什·奥尔曼刚刚加入政府团队，协助总统解密关于2020年大选的真相。 插播一条节目提示，我想确保本节目的所有观众都注意到这一点。
 
 ---
 
@@ -157,9 +157,9 @@
 
 ---
 
-> I don't take any money from the government. I think it's a good role for journalists to play getting more information out, but I want you to know personally and >> Bill Politish's job as acting DNI will be forcing these declassifications, picking up the baton from Tulsi Gabbard. That's why the senators and congressmen who tolerated and encouraged this sedition are so freaked out now. Their dirty laundry is also about to be exposed.
+> I don't take any money from the government. I think it's a good role for journalists to play getting more information out, but I want you to know personally and Bill Politish's job as acting DNI will be forcing these declassifications, picking up the baton from Tulsi Gabbard. That's why the senators and congressmen who tolerated and encouraged this sedition are so freaked out now. Their dirty laundry is also about to be exposed.
 
-我不接受政府任何资金。我认为记者多公开信息、发挥应有的作用是一件好事，但我希望你在个人层面上了解这一点，并且>> 比尔·波利蒂什作为代理国家情报总监的职责将是强制推进这些解密工作，接过图尔西·加巴德的接力棒。这就是为什么那些曾纵容并煽动这场叛乱的参议员和众议员现在如此惊慌失措。他们的肮脏内幕也即将曝光。
+我不接受政府任何资金。我认为记者多公开信息、发挥应有的作用是一件好事，但我希望你在个人层面上了解这一点，并且 比尔·波利蒂什作为代理国家情报总监的职责将是强制推进这些解密工作，接过图尔西·加巴德的接力棒。这就是为什么那些曾纵容并煽动这场叛乱的参议员和众议员现在如此惊慌失措。他们的肮脏内幕也即将曝光。
 
 ---
 
@@ -175,7 +175,7 @@
 
 ---
 
-> But, we need your help now to do that. If you haven't already subscribed to our newsletter, please do so now. This has been your Saturday update. Thanks for listening. >> Please take a moment and subscribe to our free newsletter at prometheanaction.com.
+> But, we need your help now to do that. If you haven't already subscribed to our newsletter, please do so now. This has been your Saturday update. Thanks for listening. Please take a moment and subscribe to our free newsletter at prometheanaction.com.
 
 但现在我们需要您的帮助才能做到这一点。如果您尚未订阅我们的电子报，请立即订阅。以上就是本期的周六更新。感谢您的收听。
->> 请花一点时间，访问 prometheanaction.com 订阅我们的免费电子报。
+请花一点时间，访问 prometheanaction.com 订阅我们的免费电子报。

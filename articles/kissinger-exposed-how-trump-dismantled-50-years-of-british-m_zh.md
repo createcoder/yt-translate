@@ -6,17 +6,17 @@
 
 ---
 
-> Yesterday, Treasury Secretary Scott Bessant delivered a message to the government of Iran and to the world. >> At the president's orders, we have raised the level even again and watch this space for more announcements coming next week because we are going to apply measures like have never been seen in the history of economic isolation on a country. That is an execution of a policy that has been years in the making. And a week earlier, Bessant told you what it was. >> The straight is never going back to the way it was because the Iranians have used or tried to use it as a choke point. What we are going to see over the next two years, the strait's going to become irrelevant.
+> Yesterday, Treasury Secretary Scott Bessant delivered a message to the government of Iran and to the world. At the president's orders, we have raised the level even again and watch this space for more announcements coming next week because we are going to apply measures like have never been seen in the history of economic isolation on a country. That is an execution of a policy that has been years in the making. And a week earlier, Bessant told you what it was. The straight is never going back to the way it was because the Iranians have used or tried to use it as a choke point. What we are going to see over the next two years, the strait's going to become irrelevant.
 
 昨日，财政部长斯科特·贝桑特向伊朗政府及全世界传达了一项信息。
->> 遵照总统的命令，我们再次提升了措施级别。请密切关注下周即将发布的更多公告，因为我们将对一国实施经济孤立史上前所未有的措施。此举旨在落实一项酝酿已久的政策。一周前，贝桑特曾向你们透露过具体内容。
->> 该海峡的局势将永远无法恢复如初，因为伊朗已经使用或试图将其作为战略咽喉。在未来两年内，我们将看到该海峡将失去其战略意义。
+遵照总统的命令，我们再次提升了措施级别。请密切关注下周即将发布的更多公告，因为我们将对一国实施经济孤立史上前所未有的措施。此举旨在落实一项酝酿已久的政策。一周前，贝桑特曾向你们透露过具体内容。
+该海峡的局势将永远无法恢复如初，因为伊朗已经使用或试图将其作为战略咽喉。在未来两年内，我们将看到该海峡将失去其战略意义。
 
 ---
 
-> It is going to become just another body of water. >> This isn't just about Iran. It's about the end of a British choke point that's been used as a weapon in service of a policy which has kept the region in flames for decades now. If you're living in your social media feeds, you're probably getting whiplash. The straits are open.
+> It is going to become just another body of water. This isn't just about Iran. It's about the end of a British choke point that's been used as a weapon in service of a policy which has kept the region in flames for decades now. If you're living in your social media feeds, you're probably getting whiplash. The straits are open.
 
-它终将沦为一片寻常的水域。>> 这绝不只是伊朗的问题。这关乎一条英国控制的战略咽喉的终结。多年来，该要道被当作武器，服务于某项政策，致使该地区数十年来战火不断。如果你整天刷着社交媒体，恐怕早就被这频繁更迭的消息弄得晕头转向了。海峡已开放。
+它终将沦为一片寻常的水域。 这绝不只是伊朗的问题。这关乎一条英国控制的战略咽喉的终结。多年来，该要道被当作武器，服务于某项政策，致使该地区数十年来战火不断。如果你整天刷着社交媒体，恐怕早就被这频繁更迭的消息弄得晕头转向了。海峡已开放。
 
 ---
 
@@ -50,28 +50,28 @@
 
 ---
 
-> In an interview with Fox News, Wright addressed the panic mongering in the commentary. So, you're saying that because of the US military escorts and because some of these ships go dark going through the straight that those numbers of these tracking agencies are not accurate. >> Exactly. Exactly. They're they're trying the best they can, but almost all of these ships have their aispers are off, so they're dark.
+> In an interview with Fox News, Wright addressed the panic mongering in the commentary. So, you're saying that because of the US military escorts and because some of these ships go dark going through the straight that those numbers of these tracking agencies are not accurate. Exactly. Exactly. They're they're trying the best they can, but almost all of these ships have their aispers are off, so they're dark.
 
-在接受福克斯新闻采访时，怀特就评论中煽动恐慌的情绪作出了回应。所以，您的意思是，由于有美国军舰护航，且部分船只通过海峡时会关闭信号，导致那些追踪机构的数据并不准确？>> 没错。没错。他们已经在尽力了，但几乎所有这些船只都关闭了AIS信号，所以它们都处于“隐身”状态。
-
----
-
-> They're under escort. Um, and it's so it's a different shipping operation than we had before the conflict, but it's eight or nine million barrels a day on a running average are going through the straight. Plus, you've got to add the 6 million barrels a day that are being diverted via pipelines and and those pipelines are being expanded as well. >> So, the real gap is 5 to 6 million barrels, not the 15 million the doomsday commentators keep repeating. The interviewer kept hammering on the gotcha question. who controls the straight right now.
-
-它们正由护航舰艇陪同。嗯，而且现在的航运作业与冲突前有所不同，但平均每天仍有八到九百万桶原油通过该海峡。此外，还必须加上通过管道转运的每天六百万桶，而且这些管道也在扩建中。>> 所以，实际的缺口是五到六百万桶，而不是末日论评论员们反复炒作的那一千五百万桶。采访者一直紧咬着一个陷阱问题不放：现在到底是谁控制着这条海峡？
+在接受福克斯新闻采访时，怀特就评论中煽动恐慌的情绪作出了回应。所以，您的意思是，由于有美国军舰护航，且部分船只通过海峡时会关闭信号，导致那些追踪机构的数据并不准确？ 没错。没错。他们已经在尽力了，但几乎所有这些船只都关闭了AIS信号，所以它们都处于“隐身”状态。
 
 ---
 
-> And Chris Wright flipped it from the tactical to the strategic. >> But their ability to cause difficulties are declining. Our ability to escort and bring products out of that region is growing. They they have they they have sort of one one card and it's shrinking in size. >> One shrinking card. That's not a choke point anymore.
+> They're under escort. Um, and it's so it's a different shipping operation than we had before the conflict, but it's eight or nine million barrels a day on a running average are going through the straight. Plus, you've got to add the 6 million barrels a day that are being diverted via pipelines and and those pipelines are being expanded as well. So, the real gap is 5 to 6 million barrels, not the 15 million the doomsday commentators keep repeating. The interviewer kept hammering on the gotcha question. who controls the straight right now.
 
-克里斯·赖特将其从战术层面转向了战略层面。>> 但他们制造障碍的能力正在下降。我们护航并将货物运出该区域的能力正在增强。他们……他们手里大概只有一张牌，而且这张牌的作用正在缩水。>> 一张不断缩水的牌。这已经不再是咽喉要道了。
+它们正由护航舰艇陪同。嗯，而且现在的航运作业与冲突前有所不同，但平均每天仍有八到九百万桶原油通过该海峡。此外，还必须加上通过管道转运的每天六百万桶，而且这些管道也在扩建中。 所以，实际的缺口是五到六百万桶，而不是末日论评论员们反复炒作的那一千五百万桶。采访者一直紧咬着一个陷阱问题不放：现在到底是谁控制着这条海峡？
 
 ---
 
-> That's what Bessant meant when he forecast the future irrelevancy of the strait. But the situation on the ground in Hormuse is just one flank in the overall strategy. Economic isolation that Bessant spoke of is the final phase of a strategy that he's been carrying out since March 2025. >> And we've been going after, as you said, their bank accounts, crypto wallets, assets around the world, cut cutting off payments into both the leadership and the regime and the government itself. So while Treasury was quietly strangling the Iranian regime's economic networks, the US was creating alternatives to the oil coming through the strait.
+> And Chris Wright flipped it from the tactical to the strategic. But their ability to cause difficulties are declining. Our ability to escort and bring products out of that region is growing. They they have they they have sort of one one card and it's shrinking in size. One shrinking card. That's not a choke point anymore.
+
+克里斯·赖特将其从战术层面转向了战略层面。 但他们制造障碍的能力正在下降。我们护航并将货物运出该区域的能力正在增强。他们……他们手里大概只有一张牌，而且这张牌的作用正在缩水。 一张不断缩水的牌。这已经不再是咽喉要道了。
+
+---
+
+> That's what Bessant meant when he forecast the future irrelevancy of the strait. But the situation on the ground in Hormuse is just one flank in the overall strategy. Economic isolation that Bessant spoke of is the final phase of a strategy that he's been carrying out since March 2025. And we've been going after, as you said, their bank accounts, crypto wallets, assets around the world, cut cutting off payments into both the leadership and the regime and the government itself. So while Treasury was quietly strangling the Iranian regime's economic networks, the US was creating alternatives to the oil coming through the strait.
 
 贝桑特预言该海峡未来将失去重要性，指的就是这个意思。但霍尔木兹的实地局势仅仅是整体战略中的一个侧翼。贝桑特所提及的经济孤立，正是他自2025年3月起推行的一项战略的最终阶段。
->> 正如你所说，我们一直在针对他们的银行账户、加密货币钱包以及全球各地的资产，切断向领导层、政权乃至政府本身输送的资金。因此，在美国财政部悄然扼杀伊朗政权经济网络的同时，美国也在积极寻找替代经由该海峡的石油来源。
+正如你所说，我们一直在针对他们的银行账户、加密货币钱包以及全球各地的资产，切断向领导层、政权乃至政府本身输送的资金。因此，在美国财政部悄然扼杀伊朗政权经济网络的同时，美国也在积极寻找替代经由该海峡的石油来源。
 
 ---
 
@@ -111,15 +111,15 @@
 
 ---
 
-> Mr. Aziz described how Henry Kissinger sent his envoy, Dean Brown, to, as Mr. Aziz put it to manage the beginning of the war in Lebanon in 1976. Now listen carefully to this. >> Brown telephoned his secretary only for the letter to tell him forget about it. I found the solution. I will hand Lebanon to Hafisel Assad and the Israelis are in agreement.
+> Mr. Aziz described how Henry Kissinger sent his envoy, Dean Brown, to, as Mr. Aziz put it to manage the beginning of the war in Lebanon in 1976. Now listen carefully to this. Brown telephoned his secretary only for the letter to tell him forget about it. I found the solution. I will hand Lebanon to Hafisel Assad and the Israelis are in agreement.
 
-阿齐兹先生描述了亨利·基辛格如何派遣其特使迪恩·布朗前往，正如阿齐兹先生所言，以“管控”1976年黎巴嫩战争的爆发。现在请仔细听这段内容。>> 布朗打电话给他的秘书，却只听到对方告诉他：“忘了这事吧。我已经找到解决方案了。我会把黎巴嫩交给哈菲兹·阿萨德，以色列方面也已同意。”
+阿齐兹先生描述了亨利·基辛格如何派遣其特使迪恩·布朗前往，正如阿齐兹先生所言，以“管控”1976年黎巴嫩战争的爆发。现在请仔细听这段内容。 布朗打电话给他的秘书，却只听到对方告诉他：“忘了这事吧。我已经找到解决方案了。我会把黎巴嫩交给哈菲兹·阿萨德，以色列方面也已同意。”
 
 ---
 
-> And of course the man was utterly mistaken in the wake of that episode. Lebanon lived through half a century since 1976 till now a half a century of wars, battles and instability which ended by entangling Syria, Israel, Europe, the states and above all the IRGC regime of Tan in a bloody quagmire. >> You really have to let that sink in. Mr. Raziz was there speaking on behalf of the Lebanese government, reading a prepared statement that publicly indicted Henry Kissinger for the destruction of Lebanon and other countries and for the emergence of the IRGC. And he did it at Chadam House, the place where Henry Kissinger himself admitted on the record in 1982 that he kept the British Foreign Office more closely informed than he kept the United States State Department.
+> And of course the man was utterly mistaken in the wake of that episode. Lebanon lived through half a century since 1976 till now a half a century of wars, battles and instability which ended by entangling Syria, Israel, Europe, the states and above all the IRGC regime of Tan in a bloody quagmire. You really have to let that sink in. Mr. Raziz was there speaking on behalf of the Lebanese government, reading a prepared statement that publicly indicted Henry Kissinger for the destruction of Lebanon and other countries and for the emergence of the IRGC. And he did it at Chadam House, the place where Henry Kissinger himself admitted on the record in 1982 that he kept the British Foreign Office more closely informed than he kept the United States State Department.
 
-当然，在那一事件之后，此人完全大错特错。自1976年至今，黎巴嫩经历了长达半个世纪的战争、冲突与动荡，最终将叙利亚、以色列、欧洲、美国，尤其是伊朗伊斯兰革命卫队政权，拖入了一场血腥的泥潭。>> 你们真的得好好想想这件事。拉齐兹先生当时代表黎巴嫩政府发言，宣读了一份事先准备好的声明，公开指控亨利·基辛格应对黎巴嫩及其他国家的毁灭以及伊斯兰革命卫队的崛起负责。而他发表这番言论的地点，正是查塔姆宫——正是在这里，基辛格本人在1982年曾公开承认，他向英国外交部通报的情况比向美国国务院通报的还要密切。
+当然，在那一事件之后，此人完全大错特错。自1976年至今，黎巴嫩经历了长达半个世纪的战争、冲突与动荡，最终将叙利亚、以色列、欧洲、美国，尤其是伊朗伊斯兰革命卫队政权，拖入了一场血腥的泥潭。 你们真的得好好想想这件事。拉齐兹先生当时代表黎巴嫩政府发言，宣读了一份事先准备好的声明，公开指控亨利·基辛格应对黎巴嫩及其他国家的毁灭以及伊斯兰革命卫队的崛起负责。而他发表这番言论的地点，正是查塔姆宫——正是在这里，基辛格本人在1982年曾公开承认，他向英国外交部通报的情况比向美国国务院通报的还要密切。
 
 ---
 
@@ -135,7 +135,7 @@
 
 ---
 
-> Second, he pointed to the change in Syria, which President Trump has cultivated. And finally he said there is >> a fundamental international change embodied in western and particularly American attention to Lebanon on attention at once serious and practical and one congruent with our reading of the true nature of the crisis and the feasible solutions >> particularly the Americans as in Donald Trump's America which is no longer were operating off of the empire's Kissinger implemented policy. Now, at that same Chattam House conference, the official fromQatar, Majed Alanssari, dropped another bombshell on the hosts. He made clear that the Gulf states have torn up the playbook as well and are acting in their own interests as opposed to what he called extra regional forces.
+> Second, he pointed to the change in Syria, which President Trump has cultivated. And finally he said there is a fundamental international change embodied in western and particularly American attention to Lebanon on attention at once serious and practical and one congruent with our reading of the true nature of the crisis and the feasible solutions particularly the Americans as in Donald Trump's America which is no longer were operating off of the empire's Kissinger implemented policy. Now, at that same Chattam House conference, the official fromQatar, Majed Alanssari, dropped another bombshell on the hosts. He made clear that the Gulf states have torn up the playbook as well and are acting in their own interests as opposed to what he called extra regional forces.
 
 其次，他指出叙利亚局势发生了变化，而这一变化正是特朗普总统所推动的。最后，他指出，出现了一种根本性的国际格局变化，这体现在西方——尤其是美国——对黎巴嫩局势的关注上。这种关注既严肃又务实，与我们对危机本质及可行解决方案的判断完全一致。尤其是美国，在唐纳德·特朗普领导下的美国，已不再沿用昔日帝国时代由基辛格推行的政策。与此同时，在同一场查塔姆宫研究所的会议上，卡塔尔官员马吉德·安萨里向与会者抛出了另一枚“重磅炸弹”。他明确表示，海湾国家也已撕毁了旧有的行事准则，转而根据自身利益采取行动，而非听从他所称的“域外势力”摆布。
 
@@ -147,19 +147,19 @@
 
 ---
 
-> It was not ambitious. It was very practical. And right now, while we are looking at a very severe humanitarian crisis in in Raza, we are still pushing for a practical possible solution to the humanitarian crisis over there. We are looking through the the lens of countries in the region rather than just waiting for somebody extra regionally to come in and solve our crisis for us. >> That regional deal that he describes, the October plan signed at Charbell Shake is what became the board of peace. seated in Washington for its first meeting on February 19th, 2026.
+> It was not ambitious. It was very practical. And right now, while we are looking at a very severe humanitarian crisis in in Raza, we are still pushing for a practical possible solution to the humanitarian crisis over there. We are looking through the the lens of countries in the region rather than just waiting for somebody extra regionally to come in and solve our crisis for us. That regional deal that he describes, the October plan signed at Charbell Shake is what became the board of peace. seated in Washington for its first meeting on February 19th, 2026.
 
 这并非什么宏大的构想，而是十分务实的。眼下，尽管我们正目睹加沙地带极为严重的人道主义危机，但我们仍在推动一项切实可行的方案来解决那里的危机。我们是从区域国家的视角出发来审视此事，而不是坐等区域外的某方介入替我们解决危机。
->> 他所描述的这项区域协议，即10月在沙姆沙伊赫签署的计划，最终演变成了和平委员会。该委员会于2026年2月19日在华盛顿召开首次会议。
+他所描述的这项区域协议，即10月在沙姆沙伊赫签署的计划，最终演变成了和平委员会。该委员会于2026年2月19日在华盛顿召开首次会议。
 
 ---
 
-> And who did Donald Trump take a jab at during the founding meeting? >> And I said, "Steve, how would you like to be Henry Kissinger Jr. that doesn't leak?" They said, "Are you a leaker, Steve?" No. He didn't even know what the word meant. And it's true. I always say Henry Kissinger, who was one of the great leakers of all time, by the way. Richard Nixon said to him, "Henry, Henry, who's leaking all this stuff?" I don't know, Mr. President. and it was Henry. >> A typical apparently off-hand side comment by Donald Trump.
+> And who did Donald Trump take a jab at during the founding meeting? And I said, "Steve, how would you like to be Henry Kissinger Jr. that doesn't leak?" They said, "Are you a leaker, Steve?" No. He didn't even know what the word meant. And it's true. I always say Henry Kissinger, who was one of the great leakers of all time, by the way. Richard Nixon said to him, "Henry, Henry, who's leaking all this stuff?" I don't know, Mr. President. and it was Henry. A typical apparently off-hand side comment by Donald Trump.
 
 在成立会议上，唐纳德·特朗普暗讽了谁？
->> 我说：“史蒂夫，你想不想当个不泄密的小亨利·基辛格？”
+我说：“史蒂夫，你想不想当个不泄密的小亨利·基辛格？”
 他们问：“史蒂夫，你是泄密者吗？”不是。他连这个词的意思都不知道。这倒是真的。我常说，亨利·基辛格可是历史上最顶级的泄密者之一，顺便提一句。尼克松曾对他说：“亨利啊亨利，这些消息都是谁泄露的？”基辛格答道：“我不知道，总统先生。”但实际上就是基辛格自己干的。
->> 这显然是唐纳德·特朗普典型的随口调侃。
+这显然是唐纳德·特朗普典型的随口调侃。
 
 ---
 

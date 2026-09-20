@@ -6,9 +6,9 @@
 
 ---
 
-> Speaking at the Nixon Library last week, Vice President J.D. Vance dropped a bombshell. >> And by the way, if you look at the story of how the deep state took down Richard Nixon, it's not all that different from what the same groups of people, the same institutions tried to do to Donald Trump in the first Trump administration. There is a a parallel. >> And a few minutes later in that interview, the Vice President gave us a hint as to why both presidents have been targeted. He was reflecting on the epitaph on Nixon's memorial, and he quoted it. >> honor history can bestow is to call someone a peacemaker. >> If you peel back the curtain on the Vice President's comments about the deep state forces who went after both presidents and their fight for peace, you'll discover the hidden truth about the British hand in a century of war and Henry Kissinger's role in perpetuating many of them. I'm Susan Kokinda.
+> Speaking at the Nixon Library last week, Vice President J.D. Vance dropped a bombshell. And by the way, if you look at the story of how the deep state took down Richard Nixon, it's not all that different from what the same groups of people, the same institutions tried to do to Donald Trump in the first Trump administration. There is a a parallel. And a few minutes later in that interview, the Vice President gave us a hint as to why both presidents have been targeted. He was reflecting on the epitaph on Nixon's memorial, and he quoted it. honor history can bestow is to call someone a peacemaker. If you peel back the curtain on the Vice President's comments about the deep state forces who went after both presidents and their fight for peace, you'll discover the hidden truth about the British hand in a century of war and Henry Kissinger's role in perpetuating many of them. I'm Susan Kokinda.
 
-上周在尼克松图书馆发表讲话时，副总统J.D.万斯抛出了一枚重磅炸弹。>> 顺便说一句，如果你审视“深层政府”如何扳倒理查德·尼克松的故事，你会发现它与同一批人、同一批机构在第一任特朗普政府期间试图对唐纳德·特朗普做的事情并无太大区别。两者之间存在明显的平行关系。>> 在随后的几分钟里，这位副总统在采访中还透露了两位总统为何遭到针对的线索。他回顾尼克松纪念碑上的铭文，并引用道：>> 荣誉所能赋予的最高称号，莫过于称某人为“和平缔造者”。>> 如果你拨开副总统关于“深层政府”力量对两位总统及其追求和平之举进行打压的言论帷幕，你将发现隐藏在背后、关于英国在百年战争中的角色以及亨利·基辛格在其中助长诸多冲突的真相。我是苏珊·科金达。
+上周在尼克松图书馆发表讲话时，副总统J.D.万斯抛出了一枚重磅炸弹。 顺便说一句，如果你审视“深层政府”如何扳倒理查德·尼克松的故事，你会发现它与同一批人、同一批机构在第一任特朗普政府期间试图对唐纳德·特朗普做的事情并无太大区别。两者之间存在明显的平行关系。 在随后的几分钟里，这位副总统在采访中还透露了两位总统为何遭到针对的线索。他回顾尼克松纪念碑上的铭文，并引用道： 荣誉所能赋予的最高称号，莫过于称某人为“和平缔造者”。 如果你拨开副总统关于“深层政府”力量对两位总统及其追求和平之举进行打压的言论帷幕，你将发现隐藏在背后、关于英国在百年战争中的角色以及亨利·基辛格在其中助长诸多冲突的真相。我是苏珊·科金达。
 
 ---
 
@@ -18,15 +18,15 @@
 
 ---
 
-> And how a weapons test in New Mexico points to the end of Kissinger's strategic doctrine. So, let's go back to what else the Vice President said at the Nixon Library. In addition to coming right out and saying that the deep state had targeted both Nixon and Trump. >> I'm actually fascinated by Nixon as a character in history. I think that his historical legacy is enjoying a bit of a renaissance, but I think deservedly so.
+> And how a weapons test in New Mexico points to the end of Kissinger's strategic doctrine. So, let's go back to what else the Vice President said at the Nixon Library. In addition to coming right out and saying that the deep state had targeted both Nixon and Trump. I'm actually fascinated by Nixon as a character in history. I think that his historical legacy is enjoying a bit of a renaissance, but I think deservedly so.
 
-以及新墨西哥州的一次武器试验如何指向基辛格战略学说的终结。那么，让我们回到副总统在尼克松图书馆发表的其他言论。除了直言不讳地表示“深层政府”将尼克松和特朗普都列为目标之外，他还表示：>> 我对尼克松作为历史人物这一点深感着迷。我认为，他的历史遗产正迎来一场复兴，而且这种复兴是当之无愧的。
+以及新墨西哥州的一次武器试验如何指向基辛格战略学说的终结。那么，让我们回到副总统在尼克松图书馆发表的其他言论。除了直言不讳地表示“深层政府”将尼克松和特朗普都列为目标之外，他还表示： 我对尼克松作为历史人物这一点深感着迷。我认为，他的历史遗产正迎来一场复兴，而且这种复兴是当之无愧的。
 
 ---
 
-> He was actually like a political genius. And I'm just fascinated by the guy's historical figures because, you know, one of the other lessons of Richard Nixon is it's not just that he got out of Vietnam, but that he got out of Vietnam from a position of strength. >> Did you catch that? Out of Vietnam. Because Richard Nixon was the second post-war Republican president who had the same job.
+> He was actually like a political genius. And I'm just fascinated by the guy's historical figures because, you know, one of the other lessons of Richard Nixon is it's not just that he got out of Vietnam, but that he got out of Vietnam from a position of strength. Did you catch that? Out of Vietnam. Because Richard Nixon was the second post-war Republican president who had the same job.
 
-他实际上堪称一位政治天才。我对这位历史人物始终着迷，因为从理查德·尼克松身上我们可以汲取的另一条教训是：他不仅让美国撤出了越南，而且是以强势地位实现撤军的。>> 你注意到这一点了吗？从越南撤军。因为理查德·尼克松是战后第二位担任同一职务的共和党总统。
+他实际上堪称一位政治天才。我对这位历史人物始终着迷，因为从理查德·尼克松身上我们可以汲取的另一条教训是：他不仅让美国撤出了越南，而且是以强势地位实现撤军的。 你注意到这一点了吗？从越南撤军。因为理查德·尼克松是战后第二位担任同一职务的共和党总统。
 
 ---
 
@@ -108,13 +108,13 @@
 
 ---
 
-> Because on April 14th, 2026, just a little over 2 months ago, in the midst of US operations against Iran, the Lebanese and Israeli ambassadors to the United States met face-to-face with Secretary Rubio for the first time in 43 years. And then last week, on June 26, Israel, Lebanon, and the United States signed a trilateral framework to end the conflict Henry Kissinger started. Listen to how Marco Rubio framed it. >> We are happy to announce the a framework agreement between the sovereign government of of Lebanon and and of course the government of Israel with a mediation and support of the United States of America that begins to put in place a framework for lasting peace and security. The people of Lebanon have suffered tremendously now for decades as a result of outside interference in their affairs.
+> Because on April 14th, 2026, just a little over 2 months ago, in the midst of US operations against Iran, the Lebanese and Israeli ambassadors to the United States met face-to-face with Secretary Rubio for the first time in 43 years. And then last week, on June 26, Israel, Lebanon, and the United States signed a trilateral framework to end the conflict Henry Kissinger started. Listen to how Marco Rubio framed it. We are happy to announce the a framework agreement between the sovereign government of of Lebanon and and of course the government of Israel with a mediation and support of the United States of America that begins to put in place a framework for lasting peace and security. The people of Lebanon have suffered tremendously now for decades as a result of outside interference in their affairs.
 
-因为就在2026年4月14日，也就是两个多月前，在美国对伊朗开展军事行动期间，黎巴嫩和以色列驻美国大使在43年来首次与美国国务卿鲁比奥面对面会晤。随后在上周的6月26日，以色列、黎巴嫩和美国签署了一项三方框架，以结束由亨利·基辛格开启的冲突。听听马尔科·鲁比奥是如何表述这一事件的。>> 我们很高兴宣布，在黎巴嫩主权政府与以色列政府之间，在美国的调解和支持下，达成了一项框架协定，该协定开始为持久和平与安全建立框架。数十年来，黎巴嫩人民因外部势力干涉其内政而遭受了巨大苦难。
+因为就在2026年4月14日，也就是两个多月前，在美国对伊朗开展军事行动期间，黎巴嫩和以色列驻美国大使在43年来首次与美国国务卿鲁比奥面对面会晤。随后在上周的6月26日，以色列、黎巴嫩和美国签署了一项三方框架，以结束由亨利·基辛格开启的冲突。听听马尔科·鲁比奥是如何表述这一事件的。 我们很高兴宣布，在黎巴嫩主权政府与以色列政府之间，在美国的调解和支持下，达成了一项框架协定，该协定开始为持久和平与安全建立框架。数十年来，黎巴嫩人民因外部势力干涉其内政而遭受了巨大苦难。
 
 ---
 
-> What they deserve to have is what they once had and of which there is recent history of and that is a prosperous and peaceful country. A diverse country where people of different backgrounds were able to live and go coexist side by side and in many ways was the envy of the region and of the world. >> Secretary Roubini though did say it will take time. But we are in a different world than the world Henry Kissinger bequeathed to the nations of the Middle East. Just listen for a moment as an example to the closing words of the Israeli ambassador.
+> What they deserve to have is what they once had and of which there is recent history of and that is a prosperous and peaceful country. A diverse country where people of different backgrounds were able to live and go coexist side by side and in many ways was the envy of the region and of the world. Secretary Roubini though did say it will take time. But we are in a different world than the world Henry Kissinger bequeathed to the nations of the Middle East. Just listen for a moment as an example to the closing words of the Israeli ambassador.
 
 他们理应拥有的，是曾经拥有、且近期历史所见证的那样——一个繁荣而和平的国家。那是一个多元包容的国家，不同背景的人们能够和谐共处，并在许多方面成为该地区乃至世界的典范。鲁比尼国务卿虽然表示，实现这一目标需要时间，但我们所处的世界，与亨利·基辛格留给中东各国的那个世界已大不相同。不妨听一听以色列大使在结尾处的讲话，以此为例。
 
@@ -204,6 +204,6 @@
 
 ---
 
-> Promethean Action is committed to defending the peacemakers from the empire, and that fight is now coming to a head. So, join us by becoming a supporting member or a contributor. This has been your Monday brief. Thanks for watching. >> Please take a moment and subscribe to our free newsletter at prometheanaction.com.
+> Promethean Action is committed to defending the peacemakers from the empire, and that fight is now coming to a head. So, join us by becoming a supporting member or a contributor. This has been your Monday brief. Thanks for watching. Please take a moment and subscribe to our free newsletter at prometheanaction.com.
 
-普罗米修斯行动致力于保护和平缔造者免受帝国的侵害，而这场斗争如今已到了关键时刻。因此，请通过成为支持会员或捐助者来加入我们。以上就是本周一的简报。感谢收看。>> 请花一点时间订阅我们在 prometheanaction.com 上的免费通讯。
+普罗米修斯行动致力于保护和平缔造者免受帝国的侵害，而这场斗争如今已到了关键时刻。因此，请通过成为支持会员或捐助者来加入我们。以上就是本周一的简报。感谢收看。 请花一点时间订阅我们在 prometheanaction.com 上的免费通讯。

@@ -12,9 +12,9 @@
 
 ---
 
-> Here's Treasury Secretary Scott Bass talking about his plan. >> We want to bring the G20 back to its core mission. And that core mission is talking about, you know, what can econ what can countries do, economies do, how can we band together uh to have better global growth. And our message to, you know, our allies, our trading partners is that global growth is the way to take care of this mountain of debt. >> The central bankers of the G20 and the EU, however, are committed Malthusians and imperialists. They think growth of populations or economics creates a situation they can't control.
+> Here's Treasury Secretary Scott Bass talking about his plan. We want to bring the G20 back to its core mission. And that core mission is talking about, you know, what can econ what can countries do, economies do, how can we band together uh to have better global growth. And our message to, you know, our allies, our trading partners is that global growth is the way to take care of this mountain of debt. The central bankers of the G20 and the EU, however, are committed Malthusians and imperialists. They think growth of populations or economics creates a situation they can't control.
 
-以下是财政部长斯科特·巴斯就其计划发表讲话。>> 我们希望能让二十国集团回归其核心使命。这一核心使命就是探讨各国和各经济体究竟能做什么，我们如何携手合作以实现更好的全球增长。我们向盟友和贸易伙伴传递的信息是，全球增长是化解堆积如山的债务的途径。>> 然而，二十国集团和欧盟的央行行长们却是坚定的马尔萨斯主义者和帝国主义分子。他们认为，人口或经济的增长会导致一种他们无法掌控的局面。
+以下是财政部长斯科特·巴斯就其计划发表讲话。 我们希望能让二十国集团回归其核心使命。这一核心使命就是探讨各国和各经济体究竟能做什么，我们如何携手合作以实现更好的全球增长。我们向盟友和贸易伙伴传递的信息是，全球增长是化解堆积如山的债务的途径。 然而，二十国集团和欧盟的央行行长们却是坚定的马尔萨斯主义者和帝国主义分子。他们认为，人口或经济的增长会导致一种他们无法掌控的局面。
 
 ---
 
@@ -48,17 +48,17 @@
 
 ---
 
-> To >> summarize the ambition of the summit, it is to uh take coordinated steps which try to first uh limit the impact of the economic turndown and get the global economy back to recovery as quickly as possible. Second, repair the damage done to the financial system and put in place uh some regulatory and transparency arrangements which would ensure it doesn't break down again. Third, uh make sure that poor countries and middle inome countries needs are also addressed at this summit in terms of the special financing and support uh that they need which is not domestically available to them. fourth that we fight against protectionism and fifth that we make the recovery as green as possible. >> The recovery had to be green. The result was a ratcheting down of human expectations and existence based on deliberate reliance on very primitive energy sources.
+> To summarize the ambition of the summit, it is to uh take coordinated steps which try to first uh limit the impact of the economic turndown and get the global economy back to recovery as quickly as possible. Second, repair the damage done to the financial system and put in place uh some regulatory and transparency arrangements which would ensure it doesn't break down again. Third, uh make sure that poor countries and middle inome countries needs are also addressed at this summit in terms of the special financing and support uh that they need which is not domestically available to them. fourth that we fight against protectionism and fifth that we make the recovery as green as possible. The recovery had to be green. The result was a ratcheting down of human expectations and existence based on deliberate reliance on very primitive energy sources.
 
 总结此次峰会的愿景，就是要采取协调一致的举措，首先尽力遏制经济下滑的影响，并尽快推动全球经济重回复苏轨道。其次，修复金融体系遭受的破坏，建立相应的监管与透明度机制，以确保其不再重蹈覆辙。第三，确保本次峰会也充分关注贫困国家与中等收入国家的需求，特别是它们无法在国内获得的特殊融资与支持。第四，坚决反对贸易保护主义。第五，尽可能实现绿色复苏。
 复苏必须是绿色的。然而结果却是，人类期望与生活状态被迫下调，这源于对极其原始能源的刻意依赖。
 
 ---
 
-> The green agenda says unrestrained economic growth will cause the earth to overheat and destroy humanity. Speaking in Africa in 2013, Barack Obama said just that. He told African students that they shouldn't count on higher living standards until a new way of producing green energy could be found. >> Ultimately, if you think about all the youth that everybody's mentioned here in Africa, if everybody's raising living standards to the point where everybody's got a car and everybody's got air conditioning and everybody's got a big house, uh, well, the planet will boil over. Meanwhile, the very same banks that were too big to fail cashed in on the hoax.
+> The green agenda says unrestrained economic growth will cause the earth to overheat and destroy humanity. Speaking in Africa in 2013, Barack Obama said just that. He told African students that they shouldn't count on higher living standards until a new way of producing green energy could be found. Ultimately, if you think about all the youth that everybody's mentioned here in Africa, if everybody's raising living standards to the point where everybody's got a car and everybody's got air conditioning and everybody's got a big house, uh, well, the planet will boil over. Meanwhile, the very same banks that were too big to fail cashed in on the hoax.
 
 “绿色议程”认为，不受限制的经济增长会导致地球升温失控，进而毁灭人类。2013年在非洲发表演讲时，巴拉克·奥巴马正是如此表态的。他告诫非洲学生，在找到新的绿色能源生产方式之前，不应指望生活水平能得到提升。
->> 归根结底，想想非洲的众多年轻人，如果所有人都把生活水平提高到人手一辆车、家家装空调、户户住大房子的程度，呃，那地球就会彻底沸腾。
+归根结底，想想非洲的众多年轻人，如果所有人都把生活水平提高到人手一辆车、家家装空调、户户住大房子的程度，呃，那地球就会彻底沸腾。
 与此同时，那些“大而不能倒”的银行却从这个骗局中大捞一笔。
 
 ---
@@ -81,9 +81,9 @@
 
 ---
 
-> Just listen to Scott Bessent speak back in May at the Reagan Library. >> The truth is that for too long, America had been asleep. We mistook comfort for strength. We substituted efficiency for resilience and consumption as a measure of prosperity. We told ourselves that so long as goods were cheaper overseas, it did not matter whether factories went dark in Michigan, Ohio, or Pennsylvania.
+> Just listen to Scott Bessent speak back in May at the Reagan Library. The truth is that for too long, America had been asleep. We mistook comfort for strength. We substituted efficiency for resilience and consumption as a measure of prosperity. We told ourselves that so long as goods were cheaper overseas, it did not matter whether factories went dark in Michigan, Ohio, or Pennsylvania.
 
-听听斯科特·贝森特五月在里根图书馆的讲话吧。>> 事实是，长期以来，美国一直沉睡不醒。我们将安逸误认为强大，用效率取代了韧性，把消费当作衡量繁荣的标准。我们自我安慰说，只要海外商品更便宜，密歇根、俄亥俄或宾夕法尼亚的工厂是否停工都无关紧要。
+听听斯科特·贝森特五月在里根图书馆的讲话吧。 事实是，长期以来，美国一直沉睡不醒。我们将安逸误认为强大，用效率取代了韧性，把消费当作衡量繁荣的标准。我们自我安慰说，只要海外商品更便宜，密歇根、俄亥俄或宾夕法尼亚的工厂是否停工都无关紧要。
 
 ---
 
@@ -93,9 +93,9 @@
 
 ---
 
-> For a nation that cannot manufacture, mine, ship, or refine its needs gradually seeds its strength and sovereignty to others. >> He went on to say that securing the supply chains to make America fully self-sufficient is national security's primary challenge today. I thought Glenn Beck did a good job explaining this the other day. >> Let me tell you what's happening. the new world order that was promised by Bush one and Bush 2, you know, the globalist new world order. Looks like we don't want it. And uh the reason why we don't want it is because we're seeing that America has to go down the crapper if globalism is to work.
+> For a nation that cannot manufacture, mine, ship, or refine its needs gradually seeds its strength and sovereignty to others. He went on to say that securing the supply chains to make America fully self-sufficient is national security's primary challenge today. I thought Glenn Beck did a good job explaining this the other day. Let me tell you what's happening. the new world order that was promised by Bush one and Bush 2, you know, the globalist new world order. Looks like we don't want it. And uh the reason why we don't want it is because we're seeing that America has to go down the crapper if globalism is to work.
 
-对于一个无法自主制造、开采、运输或提炼所需物资的国家而言，它正逐渐将自身的实力与主权拱手相让。>> 他接着指出，确保供应链安全以实现美国完全自给自足，是当今国家安全面临的首要挑战。前几天格伦·贝克对此的解释非常到位。>> 让我来告诉你们现在到底发生了什么。老布什和小布什曾许诺的“新世界秩序”，也就是你们知道的那个全球主义“新世界秩序”。看来我们并不想要它。而我们之所以不想要它，是因为我们看清了：如果全球主义得以推行，美国必将走向毁灭。
+对于一个无法自主制造、开采、运输或提炼所需物资的国家而言，它正逐渐将自身的实力与主权拱手相让。 他接着指出，确保供应链安全以实现美国完全自给自足，是当今国家安全面临的首要挑战。前几天格伦·贝克对此的解释非常到位。 让我来告诉你们现在到底发生了什么。老布什和小布什曾许诺的“新世界秩序”，也就是你们知道的那个全球主义“新世界秩序”。看来我们并不想要它。而我们之所以不想要它，是因为我们看清了：如果全球主义得以推行，美国必将走向毁灭。
 
 ---
 
@@ -105,9 +105,9 @@
 
 ---
 
-> We're going to have a great age for America into the 21st century. And so, he's not just reshaping America. He is reshaping the world. And I know this to be true because I have had conversations with several prime ministers in the last four months, private conversations, and all of them have said, "I know exactly what he's doing, and I know where the power is going." >> The whole piece by Glenn is well worth listening to.
+> We're going to have a great age for America into the 21st century. And so, he's not just reshaping America. He is reshaping the world. And I know this to be true because I have had conversations with several prime ministers in the last four months, private conversations, and all of them have said, "I know exactly what he's doing, and I know where the power is going." The whole piece by Glenn is well worth listening to.
 
-美国将在21世纪迎来一个伟大的时代。因此，他不仅仅是在重塑美国，更是在重塑整个世界。我之所以确信这一点，是因为在过去四个月里，我与几位总理进行了私下交谈，他们都表示：“我清楚他究竟在做什么，也清楚权力正流向何方。” >> 格伦的整篇内容都非常值得收听。
+美国将在21世纪迎来一个伟大的时代。因此，他不仅仅是在重塑美国，更是在重塑整个世界。我之所以确信这一点，是因为在过去四个月里，我与几位总理进行了私下交谈，他们都表示：“我清楚他究竟在做什么，也清楚权力正流向何方。” 格伦的整篇内容都非常值得收听。
 
 ---
 
@@ -129,10 +129,10 @@
 
 ---
 
-> It's making sure we are making the scientific and technological discoveries at the heart of the next economy. Now, on Wednesday, Energy Secretary Chris Wright presented the Trump administration's nuclear energy renaissance plans, including powering all future shipping with nuclear reactor. Here's Wright. >> Imagine shipping where refueling is maybe it's every few years. It's not every voyage.
+> It's making sure we are making the scientific and technological discoveries at the heart of the next economy. Now, on Wednesday, Energy Secretary Chris Wright presented the Trump administration's nuclear energy renaissance plans, including powering all future shipping with nuclear reactor. Here's Wright. Imagine shipping where refueling is maybe it's every few years. It's not every voyage.
 
 这旨在确保我们能够在下一代经济的核心领域取得关键的科学与技术突破。本周三，能源部长克里斯·赖特介绍了特朗普政府的核能复兴计划，其中包括为未来所有航运提供核动力。以下是赖特的发言：
->> 想象一下这样的航运场景：加注燃料可能只需每隔几年进行一次，而不是每次出航都要加油。
+想象一下这样的航运场景：加注燃料可能只需每隔几年进行一次，而不是每次出航都要加油。
 
 ---
 
@@ -148,10 +148,10 @@
 
 ---
 
-> We had a surge of development in the United States of about a hundred nuclear reactors built really launched and built over two or three decades. And we had a pause. I think the world again as it as it often does kind of kind of lost its way a little bit. >> Things like this are happening every single day in the Trump administration. You have to either come here to Prometheian Action or go to the White House website to find them because the media is trying to keep their meaning a secret.
+> We had a surge of development in the United States of about a hundred nuclear reactors built really launched and built over two or three decades. And we had a pause. I think the world again as it as it often does kind of kind of lost its way a little bit. Things like this are happening every single day in the Trump administration. You have to either come here to Prometheian Action or go to the White House website to find them because the media is trying to keep their meaning a secret.
 
 美国曾经历过核电发展的高峰期，在二三十年的时间里，真正启动并建成了一百座左右的核反应堆。随后出现了一段停滞期。我认为，世界就像它经常做的那样，再次稍微迷失了方向。
->> 在特朗普政府时期，此类事情每天都在发生。你必须要么来到Prometheian Action这里，要么去白宫网站才能找到它们，因为媒体正试图掩盖其真实含义。
+在特朗普政府时期，此类事情每天都在发生。你必须要么来到Prometheian Action这里，要么去白宫网站才能找到它们，因为媒体正试图掩盖其真实含义。
 
 ---
 

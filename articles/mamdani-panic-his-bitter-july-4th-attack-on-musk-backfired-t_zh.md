@@ -54,9 +54,9 @@
 
 ---
 
-> Those who toil on factory floors and chisel into stone. And we see a nation that has allowed so much of that wealth to be held instead in the soft hands of a precious few. >> So the world's first trillionaire is Elon Musk. He invented the Starling communication system which revolutionized communications. He invented the reusable rockets which will f us to space and colleges on the moon and Mars.
+> Those who toil on factory floors and chisel into stone. And we see a nation that has allowed so much of that wealth to be held instead in the soft hands of a precious few. So the world's first trillionaire is Elon Musk. He invented the Starling communication system which revolutionized communications. He invented the reusable rockets which will f us to space and colleges on the moon and Mars.
 
-那些在工厂车间辛勤劳作的人，那些在石头上精雕细琢的人。我们看到，一个国家竟让如此巨大的财富掌握在少数特权阶层手中。>> 因此，世界上第一位万亿富翁是埃隆·马斯克。他发明了星链通信系统，彻底改变了通信方式；他发明了可重复使用的火箭，将把人类送往太空，并在月球和火星上建立殖民地。
+那些在工厂车间辛勤劳作的人，那些在石头上精雕细琢的人。我们看到，一个国家竟让如此巨大的财富掌握在少数特权阶层手中。 因此，世界上第一位万亿富翁是埃隆·马斯克。他发明了星链通信系统，彻底改变了通信方式；他发明了可重复使用的火箭，将把人类送往太空，并在月球和火星上建立殖民地。
 
 ---
 
@@ -78,9 +78,9 @@
 
 ---
 
-> I particularly like this one. >> Hey guys, it's your mayor. Call me mom. Since we're communists and we don't have electricity for everyone except for ourselves, we would really appreciate it if you can go ahead and set your AC to a special mode called off mode. Also, it would be great if you could also stop eating because we don't have food for everyone.
+> I particularly like this one. Hey guys, it's your mayor. Call me mom. Since we're communists and we don't have electricity for everyone except for ourselves, we would really appreciate it if you can go ahead and set your AC to a special mode called off mode. Also, it would be great if you could also stop eating because we don't have food for everyone.
 
-我特别喜欢这一段。>> 大家好，我是你们的市长。叫我“妈妈”就行。既然我们是共产主义者，而我们只有我们自己能用上电，所以如果你们能把空调调到一种特别模式，也就是“关闭”模式，我们将不胜感激。另外，如果你们也能停止进食，那将再好不过，因为我们没有足够的食物供所有人食用。
+我特别喜欢这一段。 大家好，我是你们的市长。叫我“妈妈”就行。既然我们是共产主义者，而我们只有我们自己能用上电，所以如果你们能把空调调到一种特别模式，也就是“关闭”模式，我们将不胜感激。另外，如果你们也能停止进食，那将再好不过，因为我们没有足够的食物供所有人食用。
 
 ---
 
@@ -120,9 +120,9 @@
 
 ---
 
-> Liberty has prevailed here because of the culture and character of the people who declared it, defended it, and preserved it. >> Then he began his attack. But in recent years, there's been an undeniable attempt to change this exceptional character, to beat the American spirit out of us, alienate us from our history, and to make it impossible to even answer the question, what does it mean to be an American? As we march into our 250th year, incredible, beautiful year, it will be. We must never forget there is no American freedom without American culture. >> Now, he gives his definition of our culture. >> Our rights here given to us by the God who made us and those rights shall not be infringed.
+> Liberty has prevailed here because of the culture and character of the people who declared it, defended it, and preserved it. Then he began his attack. But in recent years, there's been an undeniable attempt to change this exceptional character, to beat the American spirit out of us, alienate us from our history, and to make it impossible to even answer the question, what does it mean to be an American? As we march into our 250th year, incredible, beautiful year, it will be. We must never forget there is no American freedom without American culture. Now, he gives his definition of our culture. Our rights here given to us by the God who made us and those rights shall not be infringed.
 
-自由之所以在此得以确立，是因为宣告、捍卫并守护它的那些人民所具备的文化与品格。>> 随后，他开始发起抨击。但近年来，人们不可否认地试图改变这种独特的品格，试图磨灭我们的美国精神，使我们与自身历史疏离，甚至让人无法再回答“何为美国人”这一问题。在我们迈向建国250周年的这一非凡而美好的一年之际，我们绝不能忘记：没有美国文化，就没有美国自由。>> 现在，他给出了他对美国文化的定义。>> 我们的权利由创造我们的上帝赋予，这些权利不可侵犯。
+自由之所以在此得以确立，是因为宣告、捍卫并守护它的那些人民所具备的文化与品格。 随后，他开始发起抨击。但近年来，人们不可否认地试图改变这种独特的品格，试图磨灭我们的美国精神，使我们与自身历史疏离，甚至让人无法再回答“何为美国人”这一问题。在我们迈向建国250周年的这一非凡而美好的一年之际，我们绝不能忘记：没有美国文化，就没有美国自由。 现在，他给出了他对美国文化的定义。 我们的权利由创造我们的上帝赋予，这些权利不可侵犯。
 
 ---
 
@@ -138,9 +138,9 @@
 
 ---
 
-> Show us a mountain and we'll just climb it. Show us an ocean and we'll just cross it. Show us a problem and we will just solve it. show us a task the world calls impossible and Americans will get it done. >> Only then does he make the contrast. >> The American founding represents the best ideas and traditions in history by the best people like you. You can be loyal to Karl Marx or you can be loyal to America.
+> Show us a mountain and we'll just climb it. Show us an ocean and we'll just cross it. Show us a problem and we will just solve it. show us a task the world calls impossible and Americans will get it done. Only then does he make the contrast. The American founding represents the best ideas and traditions in history by the best people like you. You can be loyal to Karl Marx or you can be loyal to America.
 
-向我们展示一座山，我们就会去攀登；向我们展示一片海洋，我们就会去跨越；向我们展示一个问题，我们就会去解决；向我们展示一项被世界视为不可能完成的任务，美国人就会把它完成。>> 直到这时，他才进行对比。>> 美国的建国理念汇聚了历史上最伟大的人物所秉持的最佳思想和传统，就像你们这样的人。你可以忠于卡尔·马克思，也可以忠于美国。
+向我们展示一座山，我们就会去攀登；向我们展示一片海洋，我们就会去跨越；向我们展示一个问题，我们就会去解决；向我们展示一项被世界视为不可能完成的任务，美国人就会把它完成。 直到这时，他才进行对比。 美国的建国理念汇聚了历史上最伟大的人物所秉持的最佳思想和传统，就像你们这样的人。你可以忠于卡尔·马克思，也可以忠于美国。
 
 ---
 
@@ -150,9 +150,9 @@
 
 ---
 
-> They are slandering and attacking our future. Not going to let that happen. They're trying to tear down the great American character to destroy the people who declared independence, who crossed the Delaware, who settled the West and conquered the skies. >> The rest of the speech is an elaboration of these ideas. On July 4th, JD Mast went to New York Harbor to attend a July 4th celebration presented by the city of New York and the US Navy.
+> They are slandering and attacking our future. Not going to let that happen. They're trying to tear down the great American character to destroy the people who declared independence, who crossed the Delaware, who settled the West and conquered the skies. The rest of the speech is an elaboration of these ideas. On July 4th, JD Mast went to New York Harbor to attend a July 4th celebration presented by the city of New York and the US Navy.
 
-他们正在诽谤并攻击我们的未来。我们不会让这种情况发生。他们试图摧毁伟大的美国精神，以抹黑那些宣告独立、横渡特拉华河、拓荒西部并征服天空的人们。>> 演讲的其余部分是对这些观点的进一步阐述。7月4日，JD·万斯前往纽约港，参加由纽约市和美国海军联合举办的独立日庆祝活动。
+他们正在诽谤并攻击我们的未来。我们不会让这种情况发生。他们试图摧毁伟大的美国精神，以抹黑那些宣告独立、横渡特拉华河、拓荒西部并征服天空的人们。 演讲的其余部分是对这些观点的进一步阐述。7月4日，JD·万斯前往纽约港，参加由纽约市和美国海军联合举办的独立日庆祝活动。
 
 ---
 
@@ -186,7 +186,7 @@
 
 ---
 
-> He saw his workers as partners and he walked the walk long before it was fashionable to do so. Where some say that America's story is one of the dispossessed struggling against the powerful, Kaiser shows that America's greatness is built by cooperation between all of our citizens from every single walk of American life. Then Bass goes on to attack our enemies, saying, >> "They'll talk about America's sins with the anger and zeal of a brimstone preacher, but without any of the grace or forgiveness that must be present in the Christian faith. These people misunderstand the essence of America from Thomas Jefferson to Henry Kaiser.
+> He saw his workers as partners and he walked the walk long before it was fashionable to do so. Where some say that America's story is one of the dispossessed struggling against the powerful, Kaiser shows that America's greatness is built by cooperation between all of our citizens from every single walk of American life. Then Bass goes on to attack our enemies, saying, "They'll talk about America's sins with the anger and zeal of a brimstone preacher, but without any of the grace or forgiveness that must be present in the Christian faith. These people misunderstand the essence of America from Thomas Jefferson to Henry Kaiser.
 
 他将自己的员工视为合作伙伴，远在他成为时尚之前，他就已身体力行。当有些人将美国的故事描绘为无权无势者对抗强权的抗争时，凯泽却向我们展示，美国的伟大建立在所有公民——来自美国社会各个阶层——之间的合作之上。随后，巴斯继续抨击我们的敌人，称：“他们会带着如布道者般的愤怒与狂热，谈论美国的罪过，却完全缺乏基督教信仰中应有的恩典与宽恕。这些人从托马斯·杰斐逊到亨利·凯泽，都未能理解美国的本质。”
 
@@ -228,6 +228,6 @@
 
 ---
 
-> This has been your Monday update. Thanks for listening. >> Please take a moment and subscribe to our free newsletter at prometheianaction.com.
+> This has been your Monday update. Thanks for listening. Please take a moment and subscribe to our free newsletter at prometheianaction.com.
 
-以上就是您本周一的更新。感谢您的收听。>> 请花一点时间订阅我们在 prometheianaction.com 上的免费通讯。
+以上就是您本周一的更新。感谢您的收听。 请花一点时间订阅我们在 prometheianaction.com 上的免费通讯。

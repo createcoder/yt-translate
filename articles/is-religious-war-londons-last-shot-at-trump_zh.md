@@ -36,39 +36,39 @@
 
 ---
 
-> I was grateful for his advice. It was very warm, very inviting. Uh, and I know that he knows the critical role that Michigan is going to play in holding Trump accountable, in winning back the Senate, uh, and in building forward the future that we need. >> Is he going to campaign with you, Dr. Alsed? >> Look, I really hope so. And it was a really good conversation about uh what we need to do to be able to win.
+> I was grateful for his advice. It was very warm, very inviting. Uh, and I know that he knows the critical role that Michigan is going to play in holding Trump accountable, in winning back the Senate, uh, and in building forward the future that we need. Is he going to campaign with you, Dr. Alsed? Look, I really hope so. And it was a really good conversation about uh what we need to do to be able to win.
 
 我很感激他的建议。他的态度非常亲切，令人倍感温暖。嗯，我知道他清楚密歇根州将在追究特朗普责任、夺回参议院控制权，以及建设我们所需的未来方面发挥关键作用。
->> 他会和你一起竞选吗，阿塞德博士？
->> 说实话，我真的很希望如此。我们进行了一次非常棒的谈话，探讨了为了赢得胜利我们需要做些什么。
+他会和你一起竞选吗，阿塞德博士？
+说实话，我真的很希望如此。我们进行了一次非常棒的谈话，探讨了为了赢得胜利我们需要做些什么。
 
 ---
 
-> And obviously this is somebody who knows a lot about winning Michigan. >> To win Michigan, you need the black, Hispanic, and Jewish vote, the trade unions, and the working and middle class constituencies that used to vote solid Democrat. Most did not come out for Eliad in the primary, and the Muslim vote in Michigan was critical to Donald Trump's victory there. Eliad is counting on Obama to deliver those missing votes. And that relationship didn't start with last week's phone call.
+> And obviously this is somebody who knows a lot about winning Michigan. To win Michigan, you need the black, Hispanic, and Jewish vote, the trade unions, and the working and middle class constituencies that used to vote solid Democrat. Most did not come out for Eliad in the primary, and the Muslim vote in Michigan was critical to Donald Trump's victory there. Eliad is counting on Obama to deliver those missing votes. And that relationship didn't start with last week's phone call.
 
-显然，这位非常了解如何赢得密歇根州。>> 要想赢得密歇根州，你需要黑人、西语裔和犹太人的选票，需要工会，以及那些传统上坚定支持民主党的工薪阶层和中产阶级选民。在初选中，大多数选民并未支持埃利阿德，而密歇根州的穆斯林选票对特朗普在该州的胜利至关重要。埃利阿德正指望奥巴马能帮他拉回这些缺失的选票。而两人之间的关系也并非始于上周的那通电话。
-
----
-
-> These radical candidates are now attempting to divorce themselves from their actual ideas and policies. Thousands of social media posts are going in the garbage. Here's Alexandria Okoiocz, the public face of the Democrat Socialist of America on ABC last Sunday. uh the abolished prisons, abolished police, which is also positions that have been taken by a lot of the progressive candidates who have won. >> How do you how do you get around that? Those are not positions that are supported by >> Right.
-
-这些激进候选人如今正试图与自己的实际理念和政策划清界限。成千上万条社交媒体帖子已被删除。以下是上周日ABC电视台的一段采访画面：美国民主社会主义者的公众代表亚历山大·奥卡西奥-科尔特斯在节目中谈到：“废除监狱、废除警察”，这些也是许多胜选的进步派候选人曾采取过的立场。>> 你该如何化解这一问题？这些立场并不是由……所支持的 >> 对。
+显然，这位非常了解如何赢得密歇根州。 要想赢得密歇根州，你需要黑人、西语裔和犹太人的选票，需要工会，以及那些传统上坚定支持民主党的工薪阶层和中产阶级选民。在初选中，大多数选民并未支持埃利阿德，而密歇根州的穆斯林选票对特朗普在该州的胜利至关重要。埃利阿德正指望奥巴马能帮他拉回这些缺失的选票。而两人之间的关系也并非始于上周的那通电话。
 
 ---
 
-> I mean, I think that a lot of these races >> even right now, they'll have a tendency to be nationalized, >> but these races ultimately are local and all politics are local. My understanding is that um is is that Franchesca Hong has made clear her present stances to her election. >> Yeah. She's moved away from a lot of >> right. She's moved away from it.
+> These radical candidates are now attempting to divorce themselves from their actual ideas and policies. Thousands of social media posts are going in the garbage. Here's Alexandria Okoiocz, the public face of the Democrat Socialist of America on ABC last Sunday. uh the abolished prisons, abolished police, which is also positions that have been taken by a lot of the progressive candidates who have won. How do you how do you get around that? Those are not positions that are supported by Right.
 
-我的意思是，我认为很多这类竞选>>即使到现在，也难免被全国化>>，但这些竞选归根结底是地方性的，毕竟一切政治都是地方的。据我了解，弗朗切斯卡·洪已经明确了她目前的竞选立场。>> 对。她已经远离了那些>> 没错，她已经不再坚持那些了。
+这些激进候选人如今正试图与自己的实际理念和政策划清界限。成千上万条社交媒体帖子已被删除。以下是上周日ABC电视台的一段采访画面：美国民主社会主义者的公众代表亚历山大·奥卡西奥-科尔特斯在节目中谈到：“废除监狱、废除警察”，这些也是许多胜选的进步派候选人曾采取过的立场。 你该如何化解这一问题？这些立场并不是由……所支持的 对。
 
 ---
 
-> And I have a local city councilman that has this uh uh saying, "Woke one was crazy." >> Woke one was crazy. Okay, that's interesting. >> And uh and I think >> What is the woke she just laughed off as a badly delivered joke? Well, it took off with George Floyd in 2020. It was the campaign to defund the police.
+> I mean, I think that a lot of these races even right now, they'll have a tendency to be nationalized, but these races ultimately are local and all politics are local. My understanding is that um is is that Franchesca Hong has made clear her present stances to her election. Yeah. She's moved away from a lot of right. She's moved away from it.
+
+我的意思是，我认为很多这类竞选 即使到现在，也难免被全国化 ，但这些竞选归根结底是地方性的，毕竟一切政治都是地方的。据我了解，弗朗切斯卡·洪已经明确了她目前的竞选立场。 对。她已经远离了那些 没错，她已经不再坚持那些了。
+
+---
+
+> And I have a local city councilman that has this uh uh saying, "Woke one was crazy." Woke one was crazy. Okay, that's interesting. And uh and I think What is the woke she just laughed off as a badly delivered joke? Well, it took off with George Floyd in 2020. It was the campaign to defund the police.
 
 我认识一位本市市议员，他常说这么一句话：“‘Woke’（觉醒）太疯狂了。”
->> “‘Woke’太疯狂了。好吧，这挺有意思的。”
->> 而且我觉得……
->> 她刚才只是把它当作一个讲得蹩脚的笑话一笑而过，那“woke”（觉醒）到底指什么？
->> 嗯，它是在2020年乔治·弗洛伊德事件之后迅速流行起来的。它指的是“削减警察经费”运动。
+“‘Woke’太疯狂了。好吧，这挺有意思的。”
+而且我觉得……
+她刚才只是把它当作一个讲得蹩脚的笑话一笑而过，那“woke”（觉醒）到底指什么？
+嗯，它是在2020年乔治·弗洛伊德事件之后迅速流行起来的。它指的是“削减警察经费”运动。
 
 ---
 

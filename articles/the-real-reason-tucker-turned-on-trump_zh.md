@@ -18,9 +18,9 @@
 
 ---
 
-> But before we get started, if you like this video, please like and share it. It increases our reach. Let's start with Tulsi Gabber's declaration that Trump has ended all regime change operations which in most cases led to conflicts that never ended. Here she is discussing this at a forum in Bahrain. >> The old Washington way of thinking is something we hope is in the rear view mirror and something that has held us back for too long.
+> But before we get started, if you like this video, please like and share it. It increases our reach. Let's start with Tulsi Gabber's declaration that Trump has ended all regime change operations which in most cases led to conflicts that never ended. Here she is discussing this at a forum in Bahrain. The old Washington way of thinking is something we hope is in the rear view mirror and something that has held us back for too long.
 
-但在我们开始之前，如果你喜欢这个视频，请点赞并分享。这有助于扩大我们的影响力。我们先从图尔西·加巴德的声明说起，她称特朗普已终止所有政权更迭行动，而这些行动在大多数情况下都导致了从未结束的冲突。以下是她在巴林一次论坛上的发言：>> 华盛顿旧有的思维方式是我们希望已经抛在身后的东西，它已经阻碍我们太久了。
+但在我们开始之前，如果你喜欢这个视频，请点赞并分享。这有助于扩大我们的影响力。我们先从图尔西·加巴德的声明说起，她称特朗普已终止所有政权更迭行动，而这些行动在大多数情况下都导致了从未结束的冲突。以下是她在巴林一次论坛上的发言： 华盛顿旧有的思维方式是我们希望已经抛在身后的东西，它已经阻碍我们太久了。
 
 ---
 
@@ -30,9 +30,9 @@
 
 ---
 
-> One that is pragmatic, that is deald driven, with a very realistic approach, focused on protecting American security and prosperity while engaging with the world on terms that actually make sense. During his first term, the president brokered the Abraham Accords. this historic pact between Israel, the UAE, Bahrain, Morocco, and Sudan that came from staying laser like focused on shared interests, economic prosperity, counterterrorism, technological innovation. >> During the first 100 days of Trump, the CIA's regime change outfit, the National Endowment for Democracy, was defunded and forced to go to court to get its funds unthrozen. USID, also a key player in regime change, was shut down completely. For the first time since the end of World War II, Trump's official defense strategy, written by Deputy Director of Defense Elish Colby, does not name China or Russia as the main targets of the Pentagon.
+> One that is pragmatic, that is deald driven, with a very realistic approach, focused on protecting American security and prosperity while engaging with the world on terms that actually make sense. During his first term, the president brokered the Abraham Accords. this historic pact between Israel, the UAE, Bahrain, Morocco, and Sudan that came from staying laser like focused on shared interests, economic prosperity, counterterrorism, technological innovation. During the first 100 days of Trump, the CIA's regime change outfit, the National Endowment for Democracy, was defunded and forced to go to court to get its funds unthrozen. USID, also a key player in regime change, was shut down completely. For the first time since the end of World War II, Trump's official defense strategy, written by Deputy Director of Defense Elish Colby, does not name China or Russia as the main targets of the Pentagon.
 
-这是一种务实的、以交易为导向的、具有非常现实态度的方法，专注于保护美国的安全与繁荣，同时以真正合理的条件与世界各国互动。在他的第一个任期内，总统促成了《亚伯拉罕协议》。这一历史性协议涉及以色列、阿联酋、巴林、摩洛哥和苏丹，其成功源于对共同利益、经济繁荣、反恐和技术创新的激光般专注。>> 在特朗普执政的前100天里，中情局用于政权更迭的机构——国家民主基金会——被取消资金，并被迫诉诸法庭以解冻其资金。美国国际开发署（USAID）也是政权更迭的关键参与者，被彻底关闭。自第二次世界大战结束以来，特朗普的官方国防战略首次未将中国或俄罗斯列为五角大楼的主要目标。该战略由国防部副部长艾丽斯·科利撰写。
+这是一种务实的、以交易为导向的、具有非常现实态度的方法，专注于保护美国的安全与繁荣，同时以真正合理的条件与世界各国互动。在他的第一个任期内，总统促成了《亚伯拉罕协议》。这一历史性协议涉及以色列、阿联酋、巴林、摩洛哥和苏丹，其成功源于对共同利益、经济繁荣、反恐和技术创新的激光般专注。 在特朗普执政的前100天里，中情局用于政权更迭的机构——国家民主基金会——被取消资金，并被迫诉诸法庭以解冻其资金。美国国际开发署（USAID）也是政权更迭的关键参与者，被彻底关闭。自第二次世界大战结束以来，特朗普的官方国防战略首次未将中国或俄罗斯列为五角大楼的主要目标。该战略由国防部副部长艾丽斯·科利撰写。
 
 ---
 
@@ -48,9 +48,9 @@
 
 ---
 
-> Just look at this truth from yesterday. To put a fine point on it, Secretary of War Pete Hicks announced that he had opened a military to military deconliction strategy with China, a channel for back channel negotiations. So, is Trump controlled by Israel? Here's J. D. Vance discussing that absurdity. >> First of all, when the president of United States says America first, that means that he pursues the interests of Americans first.
+> Just look at this truth from yesterday. To put a fine point on it, Secretary of War Pete Hicks announced that he had opened a military to military deconliction strategy with China, a channel for back channel negotiations. So, is Trump controlled by Israel? Here's J. D. Vance discussing that absurdity. First of all, when the president of United States says America first, that means that he pursues the interests of Americans first.
 
-看看昨天披露的这一事实。具体来说，美国战争部长皮特·希克斯宣布，他已与中国建立了一项军事对军事的冲突降级策略，即一条用于幕后谈判的渠道。那么，特朗普是否受以色列控制？以下是J.D.万斯对此荒谬说法的回应： >> 首先，当美国总统说“美国优先”时，这意味着他将首先追求美国的利益。
+看看昨天披露的这一事实。具体来说，美国战争部长皮特·希克斯宣布，他已与中国建立了一项军事对军事的冲突降级策略，即一条用于幕后谈判的渠道。那么，特朗普是否受以色列控制？以下是J.D.万斯对此荒谬说法的回应： 首先，当美国总统说“美国优先”时，这意味着他将首先追求美国的利益。
 
 ---
 
@@ -60,9 +60,9 @@
 
 ---
 
-> And this example, the most recent Gaza peace plan that all of us have been working on very hard for the past few weeks. The president of the United States could only get that peace deal done by actually being willing to apply leverage to the state of Israel. So when people say that Israel is somehow manipulating or controlling the president of the United States, they're not controlling this president of the United States, which is one of the reasons why would be able to have some of the success that we've had in the Middle East. >> If the dynamic wasn't already clear, the Trump administration had to deny that they were babysitting Netanyahu last week as they visited Israel to protect phase one of the peace agreement. They also made it known that Trump had threatened to cut all funding to Israel if it doesn't get on board and keep on board with the peace plan now being implemented.
+> And this example, the most recent Gaza peace plan that all of us have been working on very hard for the past few weeks. The president of the United States could only get that peace deal done by actually being willing to apply leverage to the state of Israel. So when people say that Israel is somehow manipulating or controlling the president of the United States, they're not controlling this president of the United States, which is one of the reasons why would be able to have some of the success that we've had in the Middle East. If the dynamic wasn't already clear, the Trump administration had to deny that they were babysitting Netanyahu last week as they visited Israel to protect phase one of the peace agreement. They also made it known that Trump had threatened to cut all funding to Israel if it doesn't get on board and keep on board with the peace plan now being implemented.
 
-以我们最近几周一直在全力推动的最新加沙和平计划为例，美国总统之所以能够促成这项和平协议，关键在于他愿意对以色列施加实际的压力。因此，那些声称以色列以某种方式操纵或控制美国总统的说法并不成立；以色列并未控制这位美国总统，而这正是我们在中东取得某些成功的原因之一。 >> 如果局势的动态此前尚不够清晰，那么特朗普政府上周在访问以色列、为和平协议第一阶段的实施提供保护时，不得不否认他们是在“照看”内塔尼亚胡。同时，政府也明确表示，特朗普威胁称，如果以色列不加入并持续支持正在实施的和平计划，美国将切断对以色列的所有资金援助。
+以我们最近几周一直在全力推动的最新加沙和平计划为例，美国总统之所以能够促成这项和平协议，关键在于他愿意对以色列施加实际的压力。因此，那些声称以色列以某种方式操纵或控制美国总统的说法并不成立；以色列并未控制这位美国总统，而这正是我们在中东取得某些成功的原因之一。 如果局势的动态此前尚不够清晰，那么特朗普政府上周在访问以色列、为和平协议第一阶段的实施提供保护时，不得不否认他们是在“照看”内塔尼亚胡。同时，政府也明确表示，特朗普威胁称，如果以色列不加入并持续支持正在实施的和平计划，美国将切断对以色列的所有资金援助。
 
 ---
 
@@ -174,6 +174,6 @@ MAGA的本质以及赢得选举的理念。认为如此的人并不只有塔克�
 
 ---
 
-> There you'll find key materials to help you understand the difference between the American and British economic systems. I'll see you again when we answer your questions in our Thursday question and answer video. >> Thanks for watching. Please take a moment and subscribe to our free newsletter at prometheianaction.com.
+> There you'll find key materials to help you understand the difference between the American and British economic systems. I'll see you again when we answer your questions in our Thursday question and answer video. Thanks for watching. Please take a moment and subscribe to our free newsletter at prometheianaction.com.
 
-在那里，您将找到关键资料，帮助您理解美国与英国经济体系之间的差异。我们将在周四的问答视频中回答您的问题，届时再见。>> 感谢您的观看。请花一点时间订阅我们在 prometheianaction.com 提供的免费通讯。
+在那里，您将找到关键资料，帮助您理解美国与英国经济体系之间的差异。我们将在周四的问答视频中回答您的问题，届时再见。 感谢您的观看。请花一点时间订阅我们在 prometheianaction.com 提供的免费通讯。

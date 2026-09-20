@@ -1,6 +1,6 @@
 """Tests for the formatter module."""
 
-from yt_translate.formatter import format_markdown, generate_filename
+from yt_translate.formatter import format_markdown, generate_filename, strip_speaker_markers
 
 
 class TestFormatMarkdown:
@@ -69,3 +69,54 @@ class TestGenerateFilename:
     def test_empty_title(self):
         result = generate_filename("")
         assert result == "untitled_zh.md"
+
+
+class TestStripSpeakerMarkers:
+    """Tests for removing YouTube caption speaker-change markers."""
+
+    def test_leaves_plain_text_alone(self):
+        assert strip_speaker_markers("Hello world.") == "Hello world."
+        assert strip_speaker_markers("你好世界。") == "你好世界。"
+
+    def test_strips_line_leading_marker(self):
+        assert strip_speaker_markers(">> Hello world.") == "Hello world."
+        assert strip_speaker_markers(">> 你好世界。") == "你好世界。"
+
+    def test_strips_marker_without_trailing_space(self):
+        assert strip_speaker_markers(">>Hello") == "Hello"
+
+    def test_collapses_inline_marker_to_single_space(self):
+        assert strip_speaker_markers("Todd Blanche >> Yeah. It's okay.") == "Todd Blanche Yeah. It's okay."
+        assert strip_speaker_markers("EU last week. >> No, laughable.") == "EU last week. No, laughable."
+
+    def test_drops_line_that_was_only_the_marker(self):
+        assert strip_speaker_markers("line one\n>>\nline two") == "line one\nline two"
+
+    def test_preserves_blockquote_prefix(self):
+        assert strip_speaker_markers("> >> Something") == "> Something"
+
+    def test_strips_marker_from_middle_of_blockquote_line(self):
+        # Real English caption pattern from articles/
+        line = "> Todd Blanche >> Yeah. It's okay."
+        assert strip_speaker_markers(line) == "> Todd Blanche Yeah. It's okay."
+
+    def test_multiline_mixed(self):
+        text = (
+            "> Here's the President. >> No, laughable.\n"
+            "\n"
+            "以下是特朗普的讲话。\n"
+            ">> 不，我觉得这很可笑。\n"
+        )
+        expected = (
+            "> Here's the President. No, laughable.\n"
+            "\n"
+            "以下是特朗普的讲话。\n"
+            "不，我觉得这很可笑。\n"
+        )
+        assert strip_speaker_markers(text) == expected
+
+    def test_idempotent(self):
+        text = ">> foo >> bar\n>> baz"
+        once = strip_speaker_markers(text)
+        twice = strip_speaker_markers(once)
+        assert once == twice

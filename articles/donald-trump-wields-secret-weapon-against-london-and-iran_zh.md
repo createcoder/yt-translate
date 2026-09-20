@@ -6,10 +6,10 @@
 
 ---
 
-> Senator Tim Sheihi in a speech this week called Iran's IRGC a death cult. The same is true of their financial sponsors in the city of London. Let's listen first to Senator Shehi. >> These are not humanitarian freedom organizations. They are deathdealing cults and they want all of us to die brutal deaths.
+> Senator Tim Sheihi in a speech this week called Iran's IRGC a death cult. The same is true of their financial sponsors in the city of London. Let's listen first to Senator Shehi. These are not humanitarian freedom organizations. They are deathdealing cults and they want all of us to die brutal deaths.
 
 本周，蒂姆·希伊参议员在一次演讲中将伊朗伊斯兰革命卫队称为“死亡邪教”。伦敦金融城的资金赞助者也是如此。让我们先听听希伊参议员的讲话。
->> 这些并非人道主义自由组织。他们是带来死亡的邪教，妄图让我们所有人都遭受惨死。
+这些并非人道主义自由组织。他们是带来死亡的邪教，妄图让我们所有人都遭受惨死。
 
 ---
 
@@ -31,9 +31,9 @@
 
 ---
 
-> There's never been a single president who has stood up to Iran and hit back. >> That death cult description fits the disease globalist culture centered in the city of London in which the IRGC has functioned as a deployable terrorism asset for 47 years. That larger cult uses naroterrorism and Iran's religious terrorism as a weapon of war worldwide. It's just as deadly cultural attacks on scientific and technological progress through environmentalism kill more slowly. I'm Barbara Boyd.
+> There's never been a single president who has stood up to Iran and hit back. That death cult description fits the disease globalist culture centered in the city of London in which the IRGC has functioned as a deployable terrorism asset for 47 years. That larger cult uses naroterrorism and Iran's religious terrorism as a weapon of war worldwide. It's just as deadly cultural attacks on scientific and technological progress through environmentalism kill more slowly. I'm Barbara Boyd.
 
-从未有过一位总统敢于正面抗衡伊朗并予以反击。>> 这种“死亡邪教”的定性，恰恰契合了以伦敦为中心的病态全球主义文化。在这套体系中，伊斯兰革命卫队已作为可随时部署的恐怖主义资产运作了47年。这个更大的邪教将毒品恐怖主义与伊朗的宗教恐怖主义作为全球战争武器。而通过环保主义对科技进步发起的文化攻击同样致命，只是夺去生命的过程更为缓慢。我是芭芭拉·博伊德。
+从未有过一位总统敢于正面抗衡伊朗并予以反击。 这种“死亡邪教”的定性，恰恰契合了以伦敦为中心的病态全球主义文化。在这套体系中，伊斯兰革命卫队已作为可随时部署的恐怖主义资产运作了47年。这个更大的邪教将毒品恐怖主义与伊朗的宗教恐怖主义作为全球战争武器。而通过环保主义对科技进步发起的文化攻击同样致命，只是夺去生命的过程更为缓慢。我是芭芭拉·博伊德。
 
 ---
 
@@ -79,15 +79,15 @@
 
 ---
 
-> You can find more of this analysis by subscribing to our free newsletter at Prometheianaction.com. [clears throat] Now, yesterday, President Trump flipped the entire script. Here he is presenting the antidote to this poison in the Oval Office. >> Last year, I signed four historic executive orders to reignite a wave of progress in America's nuclear power production and promote this abundant, affordable, unlimited supply of energy for the American people. As part of this effort, I directed Secretary of Energy Chris Wright to establish a pilot program for advanced reactors and see at least three cutting edge reactors started up safely by the 4th of July. And what we've done has been pretty much of a miracle.
+> You can find more of this analysis by subscribing to our free newsletter at Prometheianaction.com. [clears throat] Now, yesterday, President Trump flipped the entire script. Here he is presenting the antidote to this poison in the Oval Office. Last year, I signed four historic executive orders to reignite a wave of progress in America's nuclear power production and promote this abundant, affordable, unlimited supply of energy for the American people. As part of this effort, I directed Secretary of Energy Chris Wright to establish a pilot program for advanced reactors and see at least three cutting edge reactors started up safely by the 4th of July. And what we've done has been pretty much of a miracle.
 
-您可以在 Prometheianaction.com 订阅我们的免费通讯，获取更多此类分析。[清嗓子] 就在昨天，特朗普总统彻底扭转了局势。他正在椭圆形办公室展示化解这一毒药的解药。>> 去年，我签署了四项具有历史意义的行政令，旨在重新点燃美国核能发电的发展热潮，并为美国人民提供丰富、实惠且取之不尽的能源供应。作为这一努力的一部分，我指示能源部长克里斯·赖特设立先进反应堆试点项目，并确保至少三座尖端反应堆在7月4日前安全投入运行。而我们取得的成果，简直堪称奇迹。
+您可以在 Prometheianaction.com 订阅我们的免费通讯，获取更多此类分析。[清嗓子] 就在昨天，特朗普总统彻底扭转了局势。他正在椭圆形办公室展示化解这一毒药的解药。 去年，我签署了四项具有历史意义的行政令，旨在重新点燃美国核能发电的发展热潮，并为美国人民提供丰富、实惠且取之不尽的能源供应。作为这一努力的一部分，我指示能源部长克里斯·赖特设立先进反应堆试点项目，并确保至少三座尖端反应堆在7月4日前安全投入运行。而我们取得的成果，简直堪称奇迹。
 
 ---
 
-> Most believe the goal was impossible, but I'm delighted to say that four companies succeeded in meeting that deadline for the greatest in the world at this subject. >> Here's Secretary of Energy, right? I think in the last uh 30 or 40 years the American nuclear industry has been quiescent. Most of the reactors built around the world have been built by Russia and China both in their countries and abroad. President Trump said enough of that.
+> Most believe the goal was impossible, but I'm delighted to say that four companies succeeded in meeting that deadline for the greatest in the world at this subject. Here's Secretary of Energy, right? I think in the last uh 30 or 40 years the American nuclear industry has been quiescent. Most of the reactors built around the world have been built by Russia and China both in their countries and abroad. President Trump said enough of that.
 
-大多数人认为该目标无法实现，但我很高兴地说，有四家公司成功按期完成了该领域全球最重大的项目。>> 接下来是能源部长，对吧？我认为在过去大约三四十年里，美国核工业一直处于沉寂状态。全球建造的大多数反应堆都是由俄罗斯和中国建造的，无论是在其本国还是海外。特朗普总统对此明确表示：不能再这样下去了。
+大多数人认为该目标无法实现，但我很高兴地说，有四家公司成功按期完成了该领域全球最重大的项目。 接下来是能源部长，对吧？我认为在过去大约三四十年里，美国核工业一直处于沉寂状态。全球建造的大多数反应堆都是由俄罗斯和中国建造的，无论是在其本国还是海外。特朗普总统对此明确表示：不能再这样下去了。
 
 ---
 
@@ -103,17 +103,17 @@
 
 ---
 
-> Deployable energies containerized micro reactors are designed for defense missions, remote communities, mining states, and critical infrastructure resilience. Alo atomic is building small reactors to power AI data centers. Isaiah Taylor of Atomic pretty much summed up the moment. >> Mr. President, thank you so much for your leadership in this moment. I think that the United States has been a leader in nuclear energy since the very beginning.
+> Deployable energies containerized micro reactors are designed for defense missions, remote communities, mining states, and critical infrastructure resilience. Alo atomic is building small reactors to power AI data centers. Isaiah Taylor of Atomic pretty much summed up the moment. Mr. President, thank you so much for your leadership in this moment. I think that the United States has been a leader in nuclear energy since the very beginning.
 
 可部署能源公司的集装箱式微型反应堆专为国防任务、偏远社区、采矿地区以及关键基础设施的韧性保障而设计。Alo Atomic公司正在建造小型反应堆，以为人工智能数据中心供电。Isaiah Taylor 对此作了精辟总结：
 “总统先生，非常感谢您在此关键时刻的领导。我认为，自始至终，美国一直是核能领域的领导者。”
 
 ---
 
-> We were the first ever to turn on an advanced reactor in the world. We were al also the first to turn on any type of nuclear reactor in the world. But over the last 30 years, we became more interested in PowerPoint than in power plants. And it's your leadership that is changing that. >> Right now, the entire world economy and relations between states are governed physically by geology.
+> We were the first ever to turn on an advanced reactor in the world. We were al also the first to turn on any type of nuclear reactor in the world. But over the last 30 years, we became more interested in PowerPoint than in power plants. And it's your leadership that is changing that. Right now, the entire world economy and relations between states are governed physically by geology.
 
 我们曾是全球首个启动先进反应堆的国家。我们也是世界上首个启动任何类型核反应堆的国家。但在过去的30年里，我们反而更热衷于做PPT，而非专注于核电站建设。而正是您的领导正在扭转这一局面。
->> 如今，全球经济与国家间的关系在物理层面上都受地质条件的支配。
+如今，全球经济与国家间的关系在物理层面上都受地质条件的支配。
 
 ---
 
@@ -171,6 +171,6 @@
 
 ---
 
-> You can help us grow by becoming a paid subscriber to our weekly newsletter or by contributing as much as you can. This has been your Saturday rap. Thanks for listening. >> Please take a moment and subscribe to our free newsletter at prometheianaction.com.
+> You can help us grow by becoming a paid subscriber to our weekly newsletter or by contributing as much as you can. This has been your Saturday rap. Thanks for listening. Please take a moment and subscribe to our free newsletter at prometheianaction.com.
 
-您可以通过付费订阅我们的每周通讯，或尽可能多地捐款，来帮助我们发展壮大。以上就是本期的周六快评。感谢收听。>> 请花一点时间，访问 prometheianaction.com 订阅我们的免费通讯。
+您可以通过付费订阅我们的每周通讯，或尽可能多地捐款，来帮助我们发展壮大。以上就是本期的周六快评。感谢收听。 请花一点时间，访问 prometheianaction.com 订阅我们的免费通讯。

@@ -6,16 +6,16 @@
 
 ---
 
-> Here's President Trump Thursday talking about Mark Carney making Canada an associate member of the EU last week. >> No, I think it's laughable. Look, uh the whole thing with Canada, Canada's been a terrible trade partner. And uh no, I don't see that. And if they do that, if I think it's at all a hostile act, I will put very serious tariffs or stop trading with Europe on many things.
+> Here's President Trump Thursday talking about Mark Carney making Canada an associate member of the EU last week. No, I think it's laughable. Look, uh the whole thing with Canada, Canada's been a terrible trade partner. And uh no, I don't see that. And if they do that, if I think it's at all a hostile act, I will put very serious tariffs or stop trading with Europe on many things.
 
 以下是特朗普总统周四谈及马克·卡尼上周使加拿大成为欧盟联系成员国一事。
->> 不，我觉得这很可笑。你看，关于加拿大这件事，加拿大一直是个糟糕的贸易伙伴。而且，不，我不这么认为。如果他们真这么做，只要我认为这有任何敌意，我就会征收非常严厉的关税，或者在许多领域停止与欧洲的贸易往来。
+不，我觉得这很可笑。你看，关于加拿大这件事，加拿大一直是个糟糕的贸易伙伴。而且，不，我不这么认为。如果他们真这么做，只要我认为这有任何敌意，我就会征收非常严厉的关税，或者在许多领域停止与欧洲的贸易往来。
 
 ---
 
-> So if they do that, if Europe does that with a bad intention, if if it's a good intention, that's fine. If it's a bad intention, we'll put very heavy tariffs on Europe. >> He said it was laughable. But he also put a condition on it. If he decides it is hostile, he won't just put heavy tariffs on the EU, he will stop trading with Europe.
+> So if they do that, if Europe does that with a bad intention, if if it's a good intention, that's fine. If it's a bad intention, we'll put very heavy tariffs on Europe. He said it was laughable. But he also put a condition on it. If he decides it is hostile, he won't just put heavy tariffs on the EU, he will stop trading with Europe.
 
-所以如果他们真这么做，若欧洲是出于恶意，那……若是出于善意，那就没问题。如果是恶意，我们将对欧洲征收极高的关税。>> 他表示这简直可笑。但他也附加了一个条件：如果他认定此举具有敌意，他不仅会对欧盟加征重税，还将彻底停止与欧洲的贸易往来。
+所以如果他们真这么做，若欧洲是出于恶意，那……若是出于善意，那就没问题。如果是恶意，我们将对欧洲征收极高的关税。 他表示这简直可笑。但他也附加了一个条件：如果他认定此举具有敌意，他不仅会对欧盟加征重税，还将彻底停止与欧洲的贸易往来。
 
 ---
 
@@ -79,7 +79,7 @@
 
 ---
 
-> Although in many ways it does describe how perverse this whole idea is. Here's Prime Minister Mark Carney offering Canada to the EU on Thursday. >> I'm not proposing a third block in order to become a great power rival, only with better manners. We we do not seek power to dominate others. On the contrary, we are pursuing resilience so no one no one can control our open markets, impair our sovereignty, threaten our territorial integrity, or undermine our freedoms, our democracies, our rule of law. >> In that statement, without naming Trump, Carney accuses the United States of every bad thing he mentioned.
+> Although in many ways it does describe how perverse this whole idea is. Here's Prime Minister Mark Carney offering Canada to the EU on Thursday. I'm not proposing a third block in order to become a great power rival, only with better manners. We we do not seek power to dominate others. On the contrary, we are pursuing resilience so no one no one can control our open markets, impair our sovereignty, threaten our territorial integrity, or undermine our freedoms, our democracies, our rule of law. In that statement, without naming Trump, Carney accuses the United States of every bad thing he mentioned.
 
 尽管在诸多方面，它确实揭示了这一整套构想有多么荒谬。以下是周四总理马克·卡尼向欧盟“提供”加拿大的表态：
 “我提议组建第三大阵营，并非为了成为大国竞争对手，只不过换了种更体面的方式。我们并不寻求权力去主宰他人。相反，我们追求的是韧性，以确保没有人能够控制我们的开放市场、损害我们的主权、威胁我们的领土完整，或破坏我们的自由、民主与法治。”
@@ -105,13 +105,13 @@
 
 ---
 
-> Last week on Monday, Northern Ireland, Scotland, Wales also said they wanted to join the EU, leaving the UK if necessary to do so. By the end of the week, Australia, and New Zealand said they were talking about joining Canada in the EU. This is all very strange. Even Jamie Diamond says that Carney is fantasizing and the EU is totally failing. >> Like when Mark Carney said, you know, the middle powers should get together.
+> Last week on Monday, Northern Ireland, Scotland, Wales also said they wanted to join the EU, leaving the UK if necessary to do so. By the end of the week, Australia, and New Zealand said they were talking about joining Canada in the EU. This is all very strange. Even Jamie Diamond says that Carney is fantasizing and the EU is totally failing. Like when Mark Carney said, you know, the middle powers should get together.
 
-上周一，北爱尔兰、苏格兰和威尔士也表示希望加入欧盟，必要时不惜脱离英国。到本周末时，澳大利亚和新西兰又表示，他们正在商讨与加拿大一同加入欧盟。这一切都显得非常奇怪。就连杰米·戴蒙也表示，卡尼这是在异想天开，而欧盟已经彻底失败了。>> 就像马克·卡尼曾说过的，你知道，中等强国应该联合起来。
+上周一，北爱尔兰、苏格兰和威尔士也表示希望加入欧盟，必要时不惜脱离英国。到本周末时，澳大利亚和新西兰又表示，他们正在商讨与加拿大一同加入欧盟。这一切都显得非常奇怪。就连杰米·戴蒙也表示，卡尼这是在异想天开，而欧盟已经彻底失败了。 就像马克·卡尼曾说过的，你知道，中等强国应该联合起来。
 
 ---
 
-> It's a fantasy. They did that. It's called Europe, >> you know, and >> it is hard to go to a CFR event these days where Europe doesn't get dumped on, I'm afraid. Uh, >> no, but Europe, but this this is a serious problem.
+> It's a fantasy. They did that. It's called Europe, you know, and it is hard to go to a CFR event these days where Europe doesn't get dumped on, I'm afraid. Uh, no, but Europe, but this this is a serious problem.
 
 这纯属幻想。他们确实那么做了。它叫欧洲，你知道的，而且恐怕如今去参加美国外交关系协会的活动，很难不听到对欧洲的猛烈抨击。呃，不，虽然欧洲……但这个问题确实很严重。
 

@@ -30,7 +30,7 @@
 
 ---
 
-> Four days ago, the White House put out a report called the Great Trans Shipment Scam. And here's what the president's trade adviser, Peter Navaro, said about it. >> Uh, but what happened beginning uh immediately in 2018 uh is that China strategically began to develop methods of of what's called trans shipping. It's basically a modern form of smuggling. >> As Navaro was describing how the Chinese repackage their goods into products that are produced in countries with lower tariffs in order to quote smuggle them in. The broadcast was showing just what countries are involved and Canada is near the top of the list.
+> Four days ago, the White House put out a report called the Great Trans Shipment Scam. And here's what the president's trade adviser, Peter Navaro, said about it. Uh, but what happened beginning uh immediately in 2018 uh is that China strategically began to develop methods of of what's called trans shipping. It's basically a modern form of smuggling. As Navaro was describing how the Chinese repackage their goods into products that are produced in countries with lower tariffs in order to quote smuggle them in. The broadcast was showing just what countries are involved and Canada is near the top of the list.
 
 四天前，白宫发布了一份名为《大转运骗局》的报告。以下是总统贸易顾问彼得·纳瓦罗对此事的评论：
 “但从2018年伊始，中国就开始有策略地开发一种被称为‘转运’的方法。这基本上是一种现代的走私形式。”
@@ -74,16 +74,16 @@
 
 ---
 
-> Same subject, energy and they couldn't be farther apart. Here's what Chris Wright, the US energy secretary said. >> Think about that. Human life expectancy at birth globally was was 30 years 20,000 years ago. It was 30 years 200 years ago.
+> Same subject, energy and they couldn't be farther apart. Here's what Chris Wright, the US energy secretary said. Think about that. Human life expectancy at birth globally was was 30 years 20,000 years ago. It was 30 years 200 years ago.
 
 同一个话题——能源，但两者的看法却天差地别。以下是美国能源部长克里斯·赖特所说的话：
->> 想想看。两万年前，全球人均预期寿命是30岁。两百年前，也还是30岁。
+想想看。两万年前，全球人均预期寿命是30岁。两百年前，也还是30岁。
 
 ---
 
-> The most transformative force ever to visit human civilization. Well, besides family and faith and morality and those things that power our iners, but the most transformative thing to the physical condition of humans ever is oil and natural gas. Today, life expecties over 70 years. All of that rise happened with the rise of the oil and gas industry. >> Let that really sink in.
+> The most transformative force ever to visit human civilization. Well, besides family and faith and morality and those things that power our iners, but the most transformative thing to the physical condition of humans ever is oil and natural gas. Today, life expecties over 70 years. All of that rise happened with the rise of the oil and gas industry. Let that really sink in.
 
-有史以来对人类文明产生过最深远变革的力量。当然，除了家庭、信仰、道德以及那些支撑我们内在精神的事物之外，有史以来对人类身体状况产生过最深刻变革的，无疑是石油和天然气。如今，人类的预期寿命已超过70岁。这一增长完全是伴随着石油和天然气工业的崛起而发生的。>> 请让这一点深深印在你的脑海里。
+有史以来对人类文明产生过最深远变革的力量。当然，除了家庭、信仰、道德以及那些支撑我们内在精神的事物之外，有史以来对人类身体状况产生过最深刻变革的，无疑是石油和天然气。如今，人类的预期寿命已超过70岁。这一增长完全是伴随着石油和天然气工业的崛起而发生的。 请让这一点深深印在你的脑海里。
 
 ---
 
@@ -99,9 +99,9 @@
 
 ---
 
-> She was channeling Mark Carney's line about how Canada is leading the middle powers in a new alliance against the economic hedgeimons, namely the United States and China. And so industrial policy is the new geopolitics. We've entered an era of geoindustrialization where doing business together is no longer through only private markets. It is also very much through governmentto decisions where decisions are linked to geopolitical choices. >> So catch that new phrase geoindustrialization.
+> She was channeling Mark Carney's line about how Canada is leading the middle powers in a new alliance against the economic hedgeimons, namely the United States and China. And so industrial policy is the new geopolitics. We've entered an era of geoindustrialization where doing business together is no longer through only private markets. It is also very much through governmentto decisions where decisions are linked to geopolitical choices. So catch that new phrase geoindustrialization.
 
-她是在复述马克·卡尼的观点，即加拿大正引领中等强国组建新联盟，以对抗经济霸权——也就是美国和中国。因此，产业政策已成为新的地缘政治。我们已进入一个“地缘工业化”时代，共同开展商业合作不再仅仅依赖私人市场，而是很大程度上通过政府间决策来实现，而这些决策又与地缘政治选择紧密相连。>> 所以，请留意这个新词：“地缘工业化”。
+她是在复述马克·卡尼的观点，即加拿大正引领中等强国组建新联盟，以对抗经济霸权——也就是美国和中国。因此，产业政策已成为新的地缘政治。我们已进入一个“地缘工业化”时代，共同开展商业合作不再仅仅依赖私人市场，而是很大程度上通过政府间决策来实现，而这些决策又与地缘政治选择紧密相连。 所以，请留意这个新词：“地缘工业化”。
 
 ---
 

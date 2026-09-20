@@ -12,9 +12,9 @@
 
 ---
 
-> This is done by what's happening with Russia and Ukraine. >> With those comments, President Trump just tipped you off to the real story of the midterm elections. This election isn't being fought with political ads. It's getting fought with diesel prices, trade war, and an AI scare. All time to get you to forget about the economic revolution that was celebrated at the Dallas midterm convention.
+> This is done by what's happening with Russia and Ukraine. With those comments, President Trump just tipped you off to the real story of the midterm elections. This election isn't being fought with political ads. It's getting fought with diesel prices, trade war, and an AI scare. All time to get you to forget about the economic revolution that was celebrated at the Dallas midterm convention.
 
-这一切正是借俄乌局势的动向来实现的。>> 特朗普总统这番话，实际上已经向你点明了中期选举的真正主线。这场选举的博弈并非依靠政治广告，真正的战场是柴油价格、贸易摩擦以及人工智能引发的恐慌。这一切的目的，无非是想让你转移视线，忘掉在达拉斯中期选举大会上备受瞩目的“经济革命”。
+这一切正是借俄乌局势的动向来实现的。 特朗普总统这番话，实际上已经向你点明了中期选举的真正主线。这场选举的博弈并非依靠政治广告，真正的战场是柴油价格、贸易摩擦以及人工智能引发的恐慌。这一切的目的，无非是想让你转移视线，忘掉在达拉斯中期选举大会上备受瞩目的“经济革命”。
 
 ---
 
@@ -42,17 +42,17 @@
 
 ---
 
-> It is set by the people who run the globalist exchange markets like the Brent crude futures exchange in London. So, President Trump pinpointed how the war in Ukraine is affecting diesel. President Putin pointed to how the exchange traders affect the prices and then there is the continuation of the conflict with Iran. While the president was in Ireland, he repeated a point he has made on more than one occasion. >> When will the war in Iran end, Mr. President? >> I think very soon.
+> It is set by the people who run the globalist exchange markets like the Brent crude futures exchange in London. So, President Trump pinpointed how the war in Ukraine is affecting diesel. President Putin pointed to how the exchange traders affect the prices and then there is the continuation of the conflict with Iran. While the president was in Ireland, he repeated a point he has made on more than one occasion. When will the war in Iran end, Mr. President? I think very soon.
 
 价格是由运营伦敦布伦特原油期货等全球性交易所市场的人设定的。特朗普总统明确指出，乌克兰战争正在影响柴油价格。普京总统则指出，交易所交易员对价格的影响，以及随后与伊朗冲突的持续。在爱尔兰访问期间，他重申了自己此前多次强调的观点。
->> 伊朗战争何时结束，总统先生？
->> 我认为很快。
+伊朗战争何时结束，总统先生？
+我认为很快。
 
 ---
 
-> I think it'll be probably right after midterms. They're trying to hold out as long as they can to complicate the election. >> Think about that. Why is the president so sure that this will end after the midterms? Well, he and his team have said it.
+> I think it'll be probably right after midterms. They're trying to hold out as long as they can to complicate the election. Think about that. Why is the president so sure that this will end after the midterms? Well, he and his team have said it.
 
-我认为很可能就在中期选举之后。他们正试图尽可能拖延，以此让选举变得复杂。>> 仔细想想。总统为何如此确信此事会在中期选举后结束？嗯，他和他的团队已经明确表态了。
+我认为很可能就在中期选举之后。他们正试图尽可能拖延，以此让选举变得复杂。 仔细想想。总统为何如此确信此事会在中期选举后结束？嗯，他和他的团队已经明确表态了。
 
 ---
 
@@ -98,9 +98,9 @@
 
 ---
 
-> Again, we're what, seven weeks out from an election. This has nothing to do about safety. This is control and politics. >> This is about control and politics. But it was JD Vance who gave us the best analogy asking why companies would ask for the government to regulate them.
+> Again, we're what, seven weeks out from an election. This has nothing to do about safety. This is control and politics. This is about control and politics. But it was JD Vance who gave us the best analogy asking why companies would ask for the government to regulate them.
 
-话说回来，离选举也就只剩七周了。这根本与安全无关，这纯粹是控制与政治的问题。>> 这确实关乎控制与政治。但最贴切的类比来自JD·万斯，他反问：企业为什么要主动要求政府来监管自己呢？
+话说回来，离选举也就只剩七周了。这根本与安全无关，这纯粹是控制与政治的问题。 这确实关乎控制与政治。但最贴切的类比来自JD·万斯，他反问：企业为什么要主动要求政府来监管自己呢？
 
 ---
 
@@ -170,9 +170,9 @@
 
 ---
 
-> One of the panelists, Sebastian Malib, let it all hang out. >> The sooner we get this done, the better. And the only question is whether there is a lot of damage done to the world before we get there. And we have to experience that damage, the kind of Hiroshima Nagasaki moment in order to get serious about doing something. >> Hiroshima and Nagasaki. After those bombs dropped on Japan, leading British figures like Lord Bertrand Russell began to push for international control over nuclear weapons and the end of national sovereignty.
+> One of the panelists, Sebastian Malib, let it all hang out. The sooner we get this done, the better. And the only question is whether there is a lot of damage done to the world before we get there. And we have to experience that damage, the kind of Hiroshima Nagasaki moment in order to get serious about doing something. Hiroshima and Nagasaki. After those bombs dropped on Japan, leading British figures like Lord Bertrand Russell began to push for international control over nuclear weapons and the end of national sovereignty.
 
-其中一位嘉宾塞巴斯蒂安·马利布毫不保留地坦言。>> 我们越早完成此事越好。唯一的问题是，在我们达成目标之前，世界是否会遭受巨大的破坏。我们必须亲历那种破坏，经历那种广岛和长崎式的时刻，才会真正严肃地采取行动。>> 广岛与长崎。在那两颗原子弹在日本投下之后，英国知名人士如伯特兰·罗素勋爵等人便开始呼吁对核武器实行国际管控，并终结国家主权。
+其中一位嘉宾塞巴斯蒂安·马利布毫不保留地坦言。 我们越早完成此事越好。唯一的问题是，在我们达成目标之前，世界是否会遭受巨大的破坏。我们必须亲历那种破坏，经历那种广岛和长崎式的时刻，才会真正严肃地采取行动。 广岛与长崎。在那两颗原子弹在日本投下之后，英国知名人士如伯特兰·罗素勋爵等人便开始呼吁对核武器实行国际管控，并终结国家主权。
 
 ---
 
