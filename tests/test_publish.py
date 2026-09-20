@@ -1,11 +1,10 @@
 """Tests for the publish module."""
 
 import subprocess
-from pathlib import Path
-from unittest.mock import patch, call
+from unittest.mock import patch
 
 import pytest
-from yt_translate.publish import publish
+from yt_translate.publish import PublishOutcome, publish
 
 
 @pytest.fixture
@@ -32,10 +31,13 @@ class TestPublish:
         (git_repo / "site" / "data" / "articles.json").write_text("{}")
 
         with patch("yt_translate.publish._git_push") as mock_push:
-            mock_push.return_value = True
+            mock_push.return_value = subprocess.CompletedProcess(
+                args=["git", "push"], returncode=0, stdout="", stderr=""
+            )
             result = publish(git_repo, "New Article")
 
-        assert result is True
+        assert result.outcome == PublishOutcome.PUBLISHED
+        assert result.ok
 
         # Verify commit was made
         log = subprocess.run(
@@ -44,18 +46,48 @@ class TestPublish:
         )
         assert "Add: New Article" in log.stdout
 
-    def test_no_changes_returns_false(self, git_repo):
+    def test_no_changes_returns_no_changes_outcome(self, git_repo):
         with patch("yt_translate.publish._git_push") as mock_push:
             result = publish(git_repo, "Nothing")
 
-        assert result is False
+        assert result.outcome == PublishOutcome.NO_CHANGES
+        assert not result.ok
         mock_push.assert_not_called()
 
-    def test_push_failure_returns_false(self, git_repo):
+    def test_push_failure_surfaces_git_stderr(self, git_repo):
         (git_repo / "articles" / "fail_zh.md").write_text("# Fail")
 
         with patch("yt_translate.publish._git_push") as mock_push:
-            mock_push.return_value = False
+            mock_push.return_value = subprocess.CompletedProcess(
+                args=["git", "push"],
+                returncode=1,
+                stdout="",
+                stderr="fatal: 'origin' does not appear to be a git repository\n",
+            )
             result = publish(git_repo, "Fail Article")
 
-        assert result is False
+        assert result.outcome == PublishOutcome.PUSH_FAILED
+        assert not result.ok
+        assert "origin" in result.detail
+        assert "does not appear to be a git repository" in result.detail
+
+    def test_commit_failure_surfaces_git_stderr(self, git_repo, monkeypatch):
+        # Force `git commit` to fail by breaking committer identity so it
+        # aborts with an actionable error message that must reach the user.
+        (git_repo / "articles" / "fail_zh.md").write_text("# Fail")
+        subprocess.run(["git", "config", "--unset", "user.email"], cwd=git_repo, capture_output=True)
+        subprocess.run(["git", "config", "--unset", "user.name"], cwd=git_repo, capture_output=True)
+        # Prevent git from picking up ambient identity from the environment
+        monkeypatch.setenv("GIT_AUTHOR_NAME", "")
+        monkeypatch.setenv("GIT_AUTHOR_EMAIL", "")
+        monkeypatch.setenv("GIT_COMMITTER_NAME", "")
+        monkeypatch.setenv("GIT_COMMITTER_EMAIL", "")
+        monkeypatch.setenv("HOME", str(git_repo))  # ignore ~/.gitconfig
+
+        with patch("yt_translate.publish._git_push") as mock_push:
+            result = publish(git_repo, "Fail Article")
+
+        assert result.outcome == PublishOutcome.COMMIT_FAILED
+        assert not result.ok
+        assert result.detail  # non-empty stderr from git
+        mock_push.assert_not_called()

@@ -5,6 +5,7 @@ from unittest.mock import patch, MagicMock
 from click.testing import CliRunner
 
 from yt_translate.cli import main
+from yt_translate.publish import PublishOutcome, PublishResult
 
 
 @patch("yt_translate.cli.publish")
@@ -20,7 +21,7 @@ def test_full_pipeline(mock_translate, mock_fetch, mock_build, mock_publish, tmp
         {"start": 0.0, "original": "Hello world this is a test video.", "text": "你好世界，这是一个测试视频。", "success": True},
     ]
     mock_build.return_value = 1
-    mock_publish.return_value = True
+    mock_publish.return_value = PublishResult(PublishOutcome.PUBLISHED)
 
     output_file = tmp_path / "output.md"
     runner = CliRunner()
@@ -62,7 +63,7 @@ class TestCliPublishIntegration:
         mock_chunk.return_value = [["hello"]]
         mock_translate.return_value = [{"original": "hello", "text": "你好", "success": True}]
         mock_build.return_value = 1
-        mock_publish.return_value = True
+        mock_publish.return_value = PublishResult(PublishOutcome.PUBLISHED)
 
         runner = CliRunner()
         result = runner.invoke(main, ["https://www.youtube.com/watch?v=abc123"])

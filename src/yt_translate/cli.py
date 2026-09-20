@@ -9,7 +9,7 @@ from yt_translate.chunker import chunk_segments
 from yt_translate.translator import translate_chunks
 from yt_translate.formatter import format_markdown, generate_filename
 from yt_translate.build_site import build_site
-from yt_translate.publish import publish
+from yt_translate.publish import PublishOutcome, publish
 
 
 @click.command()
@@ -87,10 +87,19 @@ def main(youtube_url: str, output: str | None, chunk_size: int, base_url: str, m
 
     if not no_publish:
         click.echo("Publishing...", err=True)
-        if publish(repo_root, title):
+        result = publish(repo_root, title)
+        if result.outcome == PublishOutcome.PUBLISHED:
             click.echo("Published successfully!", err=True)
-        else:
-            click.echo("Nothing to publish (no changes or push failed)", err=True)
+        elif result.outcome == PublishOutcome.NO_CHANGES:
+            click.echo("Nothing to publish (no staged changes).", err=True)
+        elif result.outcome == PublishOutcome.COMMIT_FAILED:
+            click.echo("Commit failed:", err=True)
+            if result.detail:
+                click.echo(result.detail, err=True)
+        elif result.outcome == PublishOutcome.PUSH_FAILED:
+            click.echo("Push failed (commit is on your local branch):", err=True)
+            if result.detail:
+                click.echo(result.detail, err=True)
 
 
 if __name__ == "__main__":
