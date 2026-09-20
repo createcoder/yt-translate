@@ -87,3 +87,37 @@ class TestParseArticle:
         result = parse_article(text)
         assert result["paragraphs"][0]["en"] == "Line one of the paragraph. Line two of the paragraph."
         assert result["paragraphs"][0]["zh"] == "多行翻译内容。"
+
+    def test_speaker_marker_follows_neighbor_language(self):
+        # YouTube captions inject ">>" as a speaker-change marker. The parser
+        # must route the marker's text to whichever language bucket the
+        # surrounding lines belong to, not always to English.
+        text = """\
+# Speakers
+
+**Original Title:** Speakers
+**Source:** https://www.youtube.com/watch?v=x
+**Translated:** 2026-09-19
+
+---
+
+> Here's the President. >> No, I think it's laughable.
+
+以下是特朗普总统的讲话。
+>> 不，我觉得这很可笑。
+
+---
+
+> Todd Blanche >> Yeah. It's okay.
+
+托德·布兰奇：
+>> 是的。没关系。
+>> 好的，接着说。
+"""
+        result = parse_article(text)
+        # First paragraph: >> line follows Chinese, so it joins zh
+        assert result["paragraphs"][0]["en"] == "Here's the President. >> No, I think it's laughable."
+        assert result["paragraphs"][0]["zh"] == "以下是特朗普总统的讲话。\n不，我觉得这很可笑。"
+        # Second paragraph: runs of >> lines all follow Chinese
+        assert result["paragraphs"][1]["en"] == "Todd Blanche >> Yeah. It's okay."
+        assert result["paragraphs"][1]["zh"] == "托德·布兰奇：\n是的。没关系。\n好的，接着说。"

@@ -48,17 +48,31 @@ def parse_article(text: str) -> dict:
         if not section:
             continue
 
-        # Extract English (blockquote lines) and Chinese (non-blockquote)
+        # Extract English (blockquote lines) and Chinese (non-blockquote).
+        # YouTube captions inject ">>" as a speaker-change marker; when it
+        # starts a line it inherits the language of the surrounding lines.
         en_lines = []
         zh_lines = []
+        last_bucket = None  # "en" or "zh"; which bucket got the last real line
 
         for line in section.split("\n"):
-            if line.startswith("> "):
+            if line.startswith(">>"):
+                content = line.lstrip(">").strip()
+                if not content:
+                    continue
+                if last_bucket == "zh":
+                    zh_lines.append(content)
+                else:
+                    en_lines.append(content)
+            elif line.startswith("> "):
                 en_lines.append(line[2:])
+                last_bucket = "en"
             elif line.startswith(">"):
                 en_lines.append(line[1:])
+                last_bucket = "en"
             elif line.strip():
                 zh_lines.append(line.strip())
+                last_bucket = "zh"
 
         en_text = " ".join(en_lines).strip()
         zh_text = "\n".join(zh_lines).strip()
